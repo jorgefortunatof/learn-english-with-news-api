@@ -1,0 +1,8 @@
+{
+  "name": "learn-english-with-news-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jorgefortunatof/learn-english-with-news-api.git",
+  "author": "jorgefortunatof <jorgefortunatof@gmail.com>",
+  "license": "MIT"
+}

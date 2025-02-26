@@ -1,0 +1,900 @@
+{
+  "page": 1,
+  "code": "123123",
+  "content": [
+    {
+      "id": 1,
+      "title": "Love, loss and duty: Ukraine's photojournalists share stories of war",
+      "imageUrl": "https://ichef.bbci.co.uk/news/800/cpsprodpb/f6b3/live/f6c81370-efae-11ef-a819-277e390a7a08.jpg.webp",
+      "category": "politics",
+      "content": {
+        "easy": [
+          {
+            "word": "scientists",
+            "phonetic": "/ˈsaɪəntɪsts/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "new",
+            "phonetic": "/njuː/"
+          },
+          {
+            "word": "star",
+            "phonetic": "/stɑːr/"
+          },
+          {
+            "word": "in",
+            "phonetic": "/ɪn/"
+          },
+          {
+            "word": "space",
+            "phonetic": "/speɪs/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "is",
+            "phonetic": "/ɪz/"
+          },
+          {
+            "word": "big",
+            "phonetic": "/bɪg/"
+          },
+          {
+            "word": "and",
+            "phonetic": "/ænd/"
+          },
+          {
+            "word": "bright",
+            "phonetic": "/braɪt/"
+          },
+          {
+            "word": "they",
+            "phonetic": "/ðeɪ/"
+          },
+          {
+            "word": "are",
+            "phonetic": "/ɑːr/"
+          },
+          {
+            "word": "happy",
+            "phonetic": "/ˈhæpi/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "this",
+            "phonetic": "/ðɪs/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "helps",
+            "phonetic": "/hɛlps/"
+          },
+          {
+            "word": "us",
+            "phonetic": "/ʌs/"
+          },
+          {
+            "word": "know",
+            "phonetic": "/nəʊ/"
+          },
+          {
+            "word": "more",
+            "phonetic": "/mɔːr/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "the",
+            "phonetic": "/ðə/"
+          },
+          {
+            "word": "universe",
+            "phonetic": "/ˈjuːnɪvɜːs/"
+          }
+        ],
+        "medium": [
+          {
+            "word": "researchers",
+            "phonetic": "/rɪˈsɜːʧəz/"
+          },
+          {
+            "word": "discover",
+            "phonetic": "/dɪsˈkʌvə/"
+          },
+          {
+            "word": "massive",
+            "phonetic": "/ˈmæsɪv/"
+          },
+          {
+            "word": "celestial",
+            "phonetic": "/sɪˈlɛstɪəl/"
+          },
+          {
+            "word": "body",
+            "phonetic": "/ˈbɒdi/"
+          },
+          {
+            "word": "located",
+            "phonetic": "/ləʊˈkeɪtɪd/"
+          },
+          {
+            "word": "distant",
+            "phonetic": "/ˈdɪstənt/"
+          },
+          {
+            "word": "galaxy",
+            "phonetic": "/ˈgæləksi/"
+          },
+          {
+            "word": "observation",
+            "phonetic": "/ˌɒbzəˈveɪʃən/"
+          },
+          {
+            "word": "reveals",
+            "phonetic": "/rɪˈviːlz/"
+          },
+          {
+            "word": "significant",
+            "phonetic": "/sɪgˈnɪfɪkənt/"
+          },
+          {
+            "word": "data",
+            "phonetic": "/ˈdeɪtə/"
+          },
+          {
+            "word": "regarding",
+            "phonetic": "/rɪˈgɑːdɪŋ/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "formations",
+            "phonetic": "/fɔːˈmeɪʃənz/"
+          },
+          {
+            "word": "findings",
+            "phonetic": "/ˈfaɪndɪŋz/"
+          },
+          {
+            "word": "could",
+            "phonetic": "/kʊd/"
+          },
+          {
+            "word": "enhance",
+            "phonetic": "/ɪnˈhɑːns/"
+          },
+          {
+            "word": "understanding",
+            "phonetic": "/ˌʌndəˈstændɪŋ/"
+          },
+          {
+            "word": "cosmic",
+            "phonetic": "/ˈkɒzmɪk/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fɪˈnɒmɪnə/"
+          }
+        ],
+        "hard": [
+          {
+            "word": "astrophysicists",
+            "phonetic": "/ˌæstrəʊˈfɪzɪsɪsts/"
+          },
+          {
+            "word": "identify",
+            "phonetic": "/aɪˈdɛntɪfaɪ/"
+          },
+          {
+            "word": "luminous",
+            "phonetic": "/ˈluːmɪnəs/"
+          },
+          {
+            "word": "supergiant",
+            "phonetic": "/ˈsuːpəˌʤaɪənt/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fəˈnɒmɪnə/"
+          },
+          {
+            "word": "situated",
+            "phonetic": "/ˈsɪtjʊeɪtɪd/"
+          },
+          {
+            "word": "billions",
+            "phonetic": "/ˈbɪljənz/"
+          },
+          {
+            "word": "light-years",
+            "phonetic": "/ˈlaɪtˌjɪəz/"
+          },
+          {
+            "word": "spectroscopic",
+            "phonetic": "/ˌspɛktrəʊˈskɒpɪk/"
+          },
+          {
+            "word": "analysis",
+            "phonetic": "/əˈnæləsɪs/"
+          },
+          {
+            "word": "provides",
+            "phonetic": "/prəˈvaɪdz/"
+          },
+          {
+            "word": "insight",
+            "phonetic": "/ˈɪnsaɪt/"
+          },
+          {
+            "word": "nucleosynthesis",
+            "phonetic": "/ˌnjuːklɪəʊˈsɪnθəsɪs/"
+          },
+          {
+            "word": "composition",
+            "phonetic": "/ˌkɒmpəˈzɪʃən/"
+          },
+          {
+            "word": "unprecedented",
+            "phonetic": "/ʌnˈprɛsɪˌdɛntɪd/"
+          },
+          {
+            "word": "luminosity",
+            "phonetic": "/ˌluːmɪˈnɒsɪti/"
+          },
+          {
+            "word": "cosmological",
+            "phonetic": "/ˌkɒzməˈlɒʤɪkəl/"
+          },
+          {
+            "word": "implications",
+            "phonetic": "/ˌɪmplɪˈkeɪʃənz/"
+          },
+          {
+            "word": "gravitational",
+            "phonetic": "/ˌgrævɪˈteɪʃənl/"
+          },
+          {
+            "word": "observatory",
+            "phonetic": "/əbˈzɜːvətəri/"
+          },
+          {
+            "word": "interpretation",
+            "phonetic": "/ɪnˌtɜːprɪˈteɪʃən/"
+          },
+          {
+            "word": "hypothesis",
+            "phonetic": "/haɪˈpɒθəsɪs/"
+          },
+          {
+            "word": "corroborates",
+            "phonetic": "/kəˈrɒbəreɪts/"
+          },
+          {
+            "word": "astronomical",
+            "phonetic": "/ˌæstrəˈnɒmɪkəl/"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "I gave birth in a bomb shelter, now I run my dream business",
+      "imageUrl": "https://ichef.bbci.co.uk/news/800/cpsprodpb/3405/live/f33c0970-f051-11ef-9e0f-95ccbac5d1e3.jpg.webp",
+      "category": "politics",
+      "content": {
+        "easy": [
+          {
+            "word": "scientists",
+            "phonetic": "/ˈsaɪəntɪsts/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "new",
+            "phonetic": "/njuː/"
+          },
+          {
+            "word": "star",
+            "phonetic": "/stɑːr/"
+          },
+          {
+            "word": "in",
+            "phonetic": "/ɪn/"
+          },
+          {
+            "word": "space,",
+            "phonetic": "/speɪs/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "is",
+            "phonetic": "/ɪz/"
+          },
+          {
+            "word": "big",
+            "phonetic": "/bɪg/"
+          },
+          {
+            "word": "and",
+            "phonetic": "/ænd/"
+          },
+          {
+            "word": "bright",
+            "phonetic": "/braɪt/"
+          },
+          {
+            "word": "they",
+            "phonetic": "/ðeɪ/"
+          },
+          {
+            "word": "are",
+            "phonetic": "/ɑːr/"
+          },
+          {
+            "word": "happy",
+            "phonetic": "/ˈhæpi/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "this",
+            "phonetic": "/ðɪs/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "helps",
+            "phonetic": "/hɛlps/"
+          },
+          {
+            "word": "us",
+            "phonetic": "/ʌs/"
+          },
+          {
+            "word": "know",
+            "phonetic": "/nəʊ/"
+          },
+          {
+            "word": "more",
+            "phonetic": "/mɔːr/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "the",
+            "phonetic": "/ðə/"
+          },
+          {
+            "word": "universe",
+            "phonetic": "/ˈjuːnɪvɜːs/"
+          }
+        ],
+        "medium": [
+          {
+            "word": "researchers",
+            "phonetic": "/rɪˈsɜːʧəz/"
+          },
+          {
+            "word": "discover",
+            "phonetic": "/dɪsˈkʌvə/"
+          },
+          {
+            "word": "massive",
+            "phonetic": "/ˈmæsɪv/"
+          },
+          {
+            "word": "celestial",
+            "phonetic": "/sɪˈlɛstɪəl/"
+          },
+          {
+            "word": "body",
+            "phonetic": "/ˈbɒdi/"
+          },
+          {
+            "word": "located",
+            "phonetic": "/ləʊˈkeɪtɪd/"
+          },
+          {
+            "word": "distant",
+            "phonetic": "/ˈdɪstənt/"
+          },
+          {
+            "word": "galaxy",
+            "phonetic": "/ˈgæləksi/"
+          },
+          {
+            "word": "observation",
+            "phonetic": "/ˌɒbzəˈveɪʃən/"
+          },
+          {
+            "word": "reveals",
+            "phonetic": "/rɪˈviːlz/"
+          },
+          {
+            "word": "significant",
+            "phonetic": "/sɪgˈnɪfɪkənt/"
+          },
+          {
+            "word": "data",
+            "phonetic": "/ˈdeɪtə/"
+          },
+          {
+            "word": "regarding",
+            "phonetic": "/rɪˈgɑːdɪŋ/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "formations",
+            "phonetic": "/fɔːˈmeɪʃənz/"
+          },
+          {
+            "word": "findings",
+            "phonetic": "/ˈfaɪndɪŋz/"
+          },
+          {
+            "word": "could",
+            "phonetic": "/kʊd/"
+          },
+          {
+            "word": "enhance",
+            "phonetic": "/ɪnˈhɑːns/"
+          },
+          {
+            "word": "understanding",
+            "phonetic": "/ˌʌndəˈstændɪŋ/"
+          },
+          {
+            "word": "cosmic",
+            "phonetic": "/ˈkɒzmɪk/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fɪˈnɒmɪnə/"
+          }
+        ],
+        "hard": [
+          {
+            "word": "astrophysicists",
+            "phonetic": "/ˌæstrəʊˈfɪzɪsɪsts/"
+          },
+          {
+            "word": "identify",
+            "phonetic": "/aɪˈdɛntɪfaɪ/"
+          },
+          {
+            "word": "luminous",
+            "phonetic": "/ˈluːmɪnəs/"
+          },
+          {
+            "word": "supergiant",
+            "phonetic": "/ˈsuːpəˌʤaɪənt/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fəˈnɒmɪnə/"
+          },
+          {
+            "word": "situated",
+            "phonetic": "/ˈsɪtjʊeɪtɪd/"
+          },
+          {
+            "word": "billions",
+            "phonetic": "/ˈbɪljənz/"
+          },
+          {
+            "word": "light-years",
+            "phonetic": "/ˈlaɪtˌjɪəz/"
+          },
+          {
+            "word": "spectroscopic",
+            "phonetic": "/ˌspɛktrəʊˈskɒpɪk/"
+          },
+          {
+            "word": "analysis",
+            "phonetic": "/əˈnæləsɪs/"
+          },
+          {
+            "word": "provides",
+            "phonetic": "/prəˈvaɪdz/"
+          },
+          {
+            "word": "insight",
+            "phonetic": "/ˈɪnsaɪt/"
+          },
+          {
+            "word": "nucleosynthesis",
+            "phonetic": "/ˌnjuːklɪəʊˈsɪnθəsɪs/"
+          },
+          {
+            "word": "composition",
+            "phonetic": "/ˌkɒmpəˈzɪʃən/"
+          },
+          {
+            "word": "unprecedented",
+            "phonetic": "/ʌnˈprɛsɪˌdɛntɪd/"
+          },
+          {
+            "word": "luminosity",
+            "phonetic": "/ˌluːmɪˈnɒsɪti/"
+          },
+          {
+            "word": "cosmological",
+            "phonetic": "/ˌkɒzməˈlɒʤɪkəl/"
+          },
+          {
+            "word": "implications",
+            "phonetic": "/ˌɪmplɪˈkeɪʃənz/"
+          },
+          {
+            "word": "gravitational",
+            "phonetic": "/ˌgrævɪˈteɪʃənl/"
+          },
+          {
+            "word": "observatory",
+            "phonetic": "/əbˈzɜːvətəri/"
+          },
+          {
+            "word": "interpretation",
+            "phonetic": "/ɪnˌtɜːprɪˈteɪʃən/"
+          },
+          {
+            "word": "hypothesis",
+            "phonetic": "/haɪˈpɒθəsɪs/"
+          },
+          {
+            "word": "corroborates",
+            "phonetic": "/kəˈrɒbəreɪts/"
+          },
+          {
+            "word": "astronomical",
+            "phonetic": "/ˌæstrəˈnɒmɪkəl/"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Zelensky willing to give up presidency in exchange for Nato membership",
+      "imageUrl": "https://ichef.bbci.co.uk/news/480/cpsprodpb/49b6/live/063871b0-f207-11ef-9ca4-2169134088d8.jpg.webp",
+      "category": "politics",
+      "content": {
+        "easy": [
+          {
+            "word": "scientists",
+            "phonetic": "/ˈsaɪəntɪsts/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "new",
+            "phonetic": "/njuː/"
+          },
+          {
+            "word": "star",
+            "phonetic": "/stɑːr/"
+          },
+          {
+            "word": "in",
+            "phonetic": "/ɪn/"
+          },
+          {
+            "word": "space",
+            "phonetic": "/speɪs/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "is",
+            "phonetic": "/ɪz/"
+          },
+          {
+            "word": "big",
+            "phonetic": "/bɪg/"
+          },
+          {
+            "word": "and",
+            "phonetic": "/ænd/"
+          },
+          {
+            "word": "bright",
+            "phonetic": "/braɪt/"
+          },
+          {
+            "word": "they",
+            "phonetic": "/ðeɪ/"
+          },
+          {
+            "word": "are",
+            "phonetic": "/ɑːr/"
+          },
+          {
+            "word": "happy",
+            "phonetic": "/ˈhæpi/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "this",
+            "phonetic": "/ðɪs/"
+          },
+          {
+            "word": "find",
+            "phonetic": "/faɪnd/"
+          },
+          {
+            "word": "it",
+            "phonetic": "/ɪt/"
+          },
+          {
+            "word": "helps",
+            "phonetic": "/hɛlps/"
+          },
+          {
+            "word": "us",
+            "phonetic": "/ʌs/"
+          },
+          {
+            "word": "know",
+            "phonetic": "/nəʊ/"
+          },
+          {
+            "word": "more",
+            "phonetic": "/mɔːr/"
+          },
+          {
+            "word": "about",
+            "phonetic": "/əˈbaʊt/"
+          },
+          {
+            "word": "the",
+            "phonetic": "/ðə/"
+          },
+          {
+            "word": "universe",
+            "phonetic": "/ˈjuːnɪvɜːs/"
+          }
+        ],
+        "medium": [
+          {
+            "word": "researchers",
+            "phonetic": "/rɪˈsɜːʧəz/"
+          },
+          {
+            "word": "discover",
+            "phonetic": "/dɪsˈkʌvə/"
+          },
+          {
+            "word": "massive",
+            "phonetic": "/ˈmæsɪv/"
+          },
+          {
+            "word": "celestial",
+            "phonetic": "/sɪˈlɛstɪəl/"
+          },
+          {
+            "word": "body",
+            "phonetic": "/ˈbɒdi/"
+          },
+          {
+            "word": "located",
+            "phonetic": "/ləʊˈkeɪtɪd/"
+          },
+          {
+            "word": "distant",
+            "phonetic": "/ˈdɪstənt/"
+          },
+          {
+            "word": "galaxy",
+            "phonetic": "/ˈgæləksi/"
+          },
+          {
+            "word": "observation",
+            "phonetic": "/ˌɒbzəˈveɪʃən/"
+          },
+          {
+            "word": "reveals",
+            "phonetic": "/rɪˈviːlz/"
+          },
+          {
+            "word": "significant",
+            "phonetic": "/sɪgˈnɪfɪkənt/"
+          },
+          {
+            "word": "data",
+            "phonetic": "/ˈdeɪtə/"
+          },
+          {
+            "word": "regarding",
+            "phonetic": "/rɪˈgɑːdɪŋ/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "formations",
+            "phonetic": "/fɔːˈmeɪʃənz/"
+          },
+          {
+            "word": "findings",
+            "phonetic": "/ˈfaɪndɪŋz/"
+          },
+          {
+            "word": "could",
+            "phonetic": "/kʊd/"
+          },
+          {
+            "word": "enhance",
+            "phonetic": "/ɪnˈhɑːns/"
+          },
+          {
+            "word": "understanding",
+            "phonetic": "/ˌʌndəˈstændɪŋ/"
+          },
+          {
+            "word": "cosmic",
+            "phonetic": "/ˈkɒzmɪk/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fɪˈnɒmɪnə/"
+          }
+        ],
+        "hard": [
+          {
+            "word": "astrophysicists",
+            "phonetic": "/ˌæstrəʊˈfɪzɪsɪsts/"
+          },
+          {
+            "word": "identify",
+            "phonetic": "/aɪˈdɛntɪfaɪ/"
+          },
+          {
+            "word": "luminous",
+            "phonetic": "/ˈluːmɪnəs/"
+          },
+          {
+            "word": "supergiant",
+            "phonetic": "/ˈsuːpəˌʤaɪənt/"
+          },
+          {
+            "word": "stellar",
+            "phonetic": "/ˈstɛlə/"
+          },
+          {
+            "word": "phenomena",
+            "phonetic": "/fəˈnɒmɪnə/"
+          },
+          {
+            "word": "situated",
+            "phonetic": "/ˈsɪtjʊeɪtɪd/"
+          },
+          {
+            "word": "billions",
+            "phonetic": "/ˈbɪljənz/"
+          },
+          {
+            "word": "light-years",
+            "phonetic": "/ˈlaɪtˌjɪəz/"
+          },
+          {
+            "word": "spectroscopic",
+            "phonetic": "/ˌspɛktrəʊˈskɒpɪk/"
+          },
+          {
+            "word": "analysis",
+            "phonetic": "/əˈnæləsɪs/"
+          },
+          {
+            "word": "provides",
+            "phonetic": "/prəˈvaɪdz/"
+          },
+          {
+            "word": "insight",
+            "phonetic": "/ˈɪnsaɪt/"
+          },
+          {
+            "word": "nucleosynthesis",
+            "phonetic": "/ˌnjuːklɪəʊˈsɪnθəsɪs/"
+          },
+          {
+            "word": "composition",
+            "phonetic": "/ˌkɒmpəˈzɪʃən/"
+          },
+          {
+            "word": "unprecedented",
+            "phonetic": "/ʌnˈprɛsɪˌdɛntɪd/"
+          },
+          {
+            "word": "luminosity",
+            "phonetic": "/ˌluːmɪˈnɒsɪti/"
+          },
+          {
+            "word": "cosmological",
+            "phonetic": "/ˌkɒzməˈlɒʤɪkəl/"
+          },
+          {
+            "word": "implications",
+            "phonetic": "/ˌɪmplɪˈkeɪʃənz/"
+          },
+          {
+            "word": "gravitational",
+            "phonetic": "/ˌgrævɪˈteɪʃənl/"
+          },
+          {
+            "word": "observatory",
+            "phonetic": "/əbˈzɜːvətəri/"
+          },
+          {
+            "word": "interpretation",
+            "phonetic": "/ɪnˌtɜːprɪˈteɪʃən/"
+          },
+          {
+            "word": "hypothesis",
+            "phonetic": "/haɪˈpɒθəsɪs/"
+          },
+          {
+            "word": "corroborates",
+            "phonetic": "/kəˈrɒbəreɪts/"
+          },
+          {
+            "word": "astronomical",
+            "phonetic": "/ˌæstrəˈnɒmɪkəl/"
+          }
+        ]
+      }
+    }
+  ]
+}
