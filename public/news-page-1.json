@@ -6,374 +6,737 @@
          "title": "Shrek 5 Trailer Sparks Mixed Reactions",
          "imageUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/be25/live/1f11b220-f5d4-11ef-9e61-71ee71f26eb1.jpg.webp",
          "article": {
-            "beginner": [
-               {
-                  "words": [
-                     {
-                        "index": 0,
-                        "word": "The",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 1,
-                        "word": "first",
-                        "phonetic": "fɜːrst"
-                     },
-                     {
-                        "index": 2,
-                        "word": "trailer",
-                        "phonetic": "ˈtreɪlər"
-                     },
-                     {
-                        "index": 3,
-                        "word": "for",
-                        "phonetic": "fɔr"
-                     },
-                     {
-                        "index": 4,
-                        "word": "Shrek",
-                        "phonetic": "ʃrɛk"
-                     },
-                     {
-                        "index": 5,
-                        "word": "5",
-                        "phonetic": "faɪv"
-                     },
-                     {
-                        "index": 6,
-                        "word": "is",
-                        "phonetic": "ɪz"
-                     },
-                     {
-                        "index": 7,
-                        "word": "out,",
-                        "phonetic": "aʊt"
-                     },
-                     {
-                        "index": 8,
-                        "word": "but",
-                        "phonetic": "bʌt"
-                     },
-                     {
-                        "index": 9,
-                        "word": "some",
-                        "phonetic": "sʌm"
-                     },
-                     {
-                        "index": 10,
-                        "word": "fans",
-                        "phonetic": "fænz"
-                     },
-                     {
-                        "index": 11,
-                        "word": "do",
-                        "phonetic": "duː"
-                     },
-                     {
-                        "index": 12,
-                        "word": "not",
-                        "phonetic": "nɒt"
-                     },
-                     {
-                        "index": 13,
-                        "word": "like",
-                        "phonetic": "laɪk"
-                     },
-                     {
-                        "index": 14,
-                        "word": "how",
-                        "phonetic": "haʊ"
-                     },
-                     {
-                        "index": 15,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 16,
-                        "word": "characters",
-                        "phonetic": "ˈkærɪktərz"
-                     },
-                     {
-                        "index": 17,
-                        "word": "look.",
-                        "phonetic": "lʊk"
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "index": 18,
-                        "word": "In",
-                        "phonetic": "ɪn"
-                     },
-                     {
-                        "index": 19,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 20,
-                        "word": "short",
-                        "phonetic": "ʃɔrt"
-                     },
-                     {
-                        "index": 21,
-                        "word": "video,",
-                        "phonetic": "ˈvɪdioʊ"
-                     },
-                     {
-                        "index": 22,
-                        "word": "Shrek,",
-                        "phonetic": "ʃrɛk"
-                     },
-                     {
-                        "index": 23,
-                        "word": "Donkey,",
-                        "phonetic": "ˈdɒŋki"
-                     },
-                     {
-                        "index": 24,
-                        "word": "Pinocchio,",
-                        "phonetic": "pɪˈnoʊki.oʊ"
-                     },
-                     {
-                        "index": 25,
-                        "word": "and",
-                        "phonetic": "ænd"
-                     },
-                     {
-                        "index": 26,
-                        "word": "Fiona",
-                        "phonetic": "fiˈoʊnə"
-                     },
-                     {
-                        "index": 27,
-                        "word": "appear.",
-                        "phonetic": "əˈpɪr"
-                     },
-                     {
-                        "index": 28,
-                        "word": "Felicia,",
-                        "phonetic": "fəˈliʃə"
-                     },
-                     {
-                        "index": 29,
-                        "word": "Shrek",
-                        "phonetic": "ʃrɛk"
-                     },
-                     {
-                        "index": 30,
-                        "word": "and",
-                        "phonetic": "ænd"
-                     },
-                     {
-                        "index": 31,
-                        "word": "Fiona’s",
-                        "phonetic": "fiˈoʊnəz"
-                     },
-                     {
-                        "index": 32,
-                        "word": "daughter,",
-                        "phonetic": "ˈdɔːtər"
-                     },
-                     {
-                        "index": 33,
-                        "word": "is",
-                        "phonetic": "ɪz"
-                     },
-                     {
-                        "index": 34,
-                        "word": "now",
-                        "phonetic": "naʊ"
-                     },
-                     {
-                        "index": 35,
-                        "word": "grown",
-                        "phonetic": "ɡroʊn"
-                     },
-                     {
-                        "index": 36,
-                        "word": "up",
-                        "phonetic": "ʌp"
-                     },
-                     {
-                        "index": 37,
-                        "word": "and",
-                        "phonetic": "ænd"
-                     },
-                     {
-                        "index": 38,
-                        "word": "shown",
-                        "phonetic": "ʃoʊn"
-                     },
-                     {
-                        "index": 39,
-                        "word": "in",
-                        "phonetic": "ɪn"
-                     },
-                     {
-                        "index": 40,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 41,
-                        "word": "clip.",
-                        "phonetic": "klɪp"
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "index": 42,
-                        "word": "Zendaya",
-                        "phonetic": "zɛnˈdeɪ.ə"
-                     },
-                     {
-                        "index": 43,
-                        "word": "will",
-                        "phonetic": "wɪl"
-                     },
-                     {
-                        "index": 44,
-                        "word": "play",
-                        "phonetic": "pleɪ"
-                     },
-                     {
-                        "index": 45,
-                        "word": "Felicia,",
-                        "phonetic": "fəˈliʃə"
-                     },
-                     {
-                        "index": 46,
-                        "word": "and",
-                        "phonetic": "ænd"
-                     },
-                     {
-                        "index": 47,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 48,
-                        "word": "old",
-                        "phonetic": "oʊld"
-                     },
-                     {
-                        "index": 49,
-                        "word": "actors",
-                        "phonetic": "ˈæktərz"
-                     },
-                     {
-                        "index": 50,
-                        "word": "will",
-                        "phonetic": "wɪl"
-                     },
-                     {
-                        "index": 51,
-                        "word": "return.",
-                        "phonetic": "rɪˈtɜrn"
-                     },
-                     {
-                        "index": 52,
-                        "word": "Oli",
-                        "phonetic": "ˈɒli"
-                     },
-                     {
-                        "index": 53,
-                        "word": "Hyatt,",
-                        "phonetic": "ˈhaɪət"
-                     },
-                     {
-                        "index": 54,
-                        "word": "an",
-                        "phonetic": "æn"
-                     },
-                     {
-                        "index": 55,
-                        "word": "animation",
-                        "phonetic": "ˌænɪˈmeɪʃən"
-                     },
-                     {
-                        "index": 56,
-                        "word": "expert,",
-                        "phonetic": "ˈɛkspɜrt"
-                     },
-                     {
-                        "index": 57,
-                        "word": "says",
-                        "phonetic": "sɛz"
-                     },
-                     {
-                        "index": 58,
-                        "word": "people",
-                        "phonetic": "ˈpiːpəl"
-                     },
-                     {
-                        "index": 59,
-                        "word": "love",
-                        "phonetic": "lʌv"
-                     },
-                     {
-                        "index": 60,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 61,
-                        "word": "old",
-                        "phonetic": "oʊld"
-                     },
-                     {
-                        "index": 62,
-                        "word": "Shrek",
-                        "phonetic": "ʃrɛk"
-                     },
-                     {
-                        "index": 63,
-                        "word": "style.",
-                        "phonetic": "staɪl"
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "index": 64,
-                        "word": "Some",
-                        "phonetic": "sʌm"
-                     },
-                     {
-                        "index": 65,
-                        "word": "fans",
-                        "phonetic": "fænz"
-                     },
-                     {
-                        "index": 66,
-                        "word": "say",
-                        "phonetic": "seɪ"
-                     },
-                     {
-                        "index": 67,
-                        "word": "the",
-                        "phonetic": "ðə"
-                     },
-                     {
-                        "index": 68,
-                        "word": "new",
-                        "phonetic": "nuː"
-                     },
-                     {
-                        "index": 69,
-                        "word": "designs",
-                        "phonetic": "dɪˈzaɪnz"
-                     }
-                  ]
-               }
-            ],
+            "beginner": {
+               "paragraphs": [
+                  {
+                     "words": [
+                        {
+                           "word": "The",
+                           "phonetic": "ðə",
+                           "index": 0
+                        },
+                        {
+                           "word": "first",
+                           "phonetic": "fɜːrst",
+                           "index": 1
+                        },
+                        {
+                           "word": "trailer",
+                           "phonetic": "ˈtreɪlər",
+                           "index": 2
+                        },
+                        {
+                           "word": "for",
+                           "phonetic": "fɔːr",
+                           "index": 3
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 4
+                        },
+                        {
+                           "word": "5",
+                           "phonetic": "faɪv",
+                           "index": 5
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 6
+                        },
+                        {
+                           "word": "out,",
+                           "phonetic": "aʊt,",
+                           "index": 7
+                        },
+                        {
+                           "word": "but",
+                           "phonetic": "bʌt",
+                           "index": 8
+                        },
+                        {
+                           "word": "some",
+                           "phonetic": "sʌm",
+                           "index": 9
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 10
+                        },
+                        {
+                           "word": "do",
+                           "phonetic": "duː",
+                           "index": 11
+                        },
+                        {
+                           "word": "not",
+                           "phonetic": "nɒt",
+                           "index": 12
+                        },
+                        {
+                           "word": "like",
+                           "phonetic": "laɪk",
+                           "index": 13
+                        },
+                        {
+                           "word": "how",
+                           "phonetic": "haʊ",
+                           "index": 14
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 15
+                        },
+                        {
+                           "word": "characters",
+                           "phonetic": "ˈkærɪktərz",
+                           "index": 16
+                        },
+                        {
+                           "word": "look.",
+                           "phonetic": "lʊk.",
+                           "index": 17
+                        },
+                        {
+                           "word": "In",
+                           "phonetic": "ɪn",
+                           "index": 18
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 19
+                        },
+                        {
+                           "word": "short",
+                           "phonetic": "ʃɔːrt",
+                           "index": 20
+                        },
+                        {
+                           "word": "video,",
+                           "phonetic": "ˈvɪdiəʊ,",
+                           "index": 21
+                        },
+                        {
+                           "word": "Shrek,",
+                           "phonetic": "ʃrɛk,",
+                           "index": 22
+                        },
+                        {
+                           "word": "Donkey,",
+                           "phonetic": "ˈdɒŋki,",
+                           "index": 23
+                        },
+                        {
+                           "word": "Pinocchio,",
+                           "phonetic": "pɪˈnəʊkɪəʊ,",
+                           "index": 24
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 25
+                        },
+                        {
+                           "word": "Fiona",
+                           "phonetic": "fiˈəʊnə",
+                           "index": 26
+                        },
+                        {
+                           "word": "appear.",
+                           "phonetic": "əˈpɪə(r).",
+                           "index": 27
+                        },
+                        {
+                           "word": "Felicia,",
+                           "phonetic": "fəˈlɪʃə,",
+                           "index": 28
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 29
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 30
+                        },
+                        {
+                           "word": "Fiona’s",
+                           "phonetic": "fiˈəʊnəz",
+                           "index": 31
+                        },
+                        {
+                           "word": "daughter,",
+                           "phonetic": "ˈdɔːtə(r),",
+                           "index": 32
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 33
+                        },
+                        {
+                           "word": "now",
+                           "phonetic": "naʊ",
+                           "index": 34
+                        },
+                        {
+                           "word": "grown",
+                           "phonetic": "ɡroʊn",
+                           "index": 35
+                        },
+                        {
+                           "word": "up",
+                           "phonetic": "ʌp",
+                           "index": 36
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 37
+                        },
+                        {
+                           "word": "shown",
+                           "phonetic": "ʃoʊn",
+                           "index": 38
+                        },
+                        {
+                           "word": "in",
+                           "phonetic": "ɪn",
+                           "index": 39
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 40
+                        },
+                        {
+                           "word": "clip.",
+                           "phonetic": "klɪp.",
+                           "index": 41
+                        },
+                        {
+                           "word": "Zendaya",
+                           "phonetic": "zenˈdaɪə",
+                           "index": 42
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 43
+                        },
+                        {
+                           "word": "play",
+                           "phonetic": "pleɪ",
+                           "index": 44
+                        },
+                        {
+                           "word": "Felicia,",
+                           "phonetic": "fəˈlɪʃə,",
+                           "index": 45
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 46
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 47
+                        },
+                        {
+                           "word": "old",
+                           "phonetic": "oʊld",
+                           "index": 48
+                        },
+                        {
+                           "word": "actors",
+                           "phonetic": "ˈæktərz",
+                           "index": 49
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 50
+                        },
+                        {
+                           "word": "return.",
+                           "phonetic": "rɪˈtɜːrn.",
+                           "index": 51
+                        }
+                     ]
+                  },
+                  {
+                     "words": [
+                        {
+                           "word": "Oli",
+                           "phonetic": "ˈɒli",
+                           "index": 52
+                        },
+                        {
+                           "word": "Hyatt,",
+                           "phonetic": "ˈhaɪət,",
+                           "index": 53
+                        },
+                        {
+                           "word": "an",
+                           "phonetic": "æn",
+                           "index": 54
+                        },
+                        {
+                           "word": "animation",
+                           "phonetic": "ˌænɪˈmeɪʃən",
+                           "index": 55
+                        },
+                        {
+                           "word": "expert,",
+                           "phonetic": "ˈɛkspɜːt,",
+                           "index": 56
+                        },
+                        {
+                           "word": "says",
+                           "phonetic": "sez",
+                           "index": 57
+                        },
+                        {
+                           "word": "people",
+                           "phonetic": "ˈpiːpl",
+                           "index": 58
+                        },
+                        {
+                           "word": "love",
+                           "phonetic": "lʌv",
+                           "index": 59
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 60
+                        },
+                        {
+                           "word": "old",
+                           "phonetic": "oʊld",
+                           "index": 61
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 62
+                        },
+                        {
+                           "word": "style.",
+                           "phonetic": "staɪl.",
+                           "index": 63
+                        },
+                        {
+                           "word": "Some",
+                           "phonetic": "sʌm",
+                           "index": 64
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 65
+                        },
+                        {
+                           "word": "say",
+                           "phonetic": "seɪ",
+                           "index": 66
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 67
+                        },
+                        {
+                           "word": "new",
+                           "phonetic": "nuː",
+                           "index": 68
+                        },
+                        {
+                           "word": "look",
+                           "phonetic": "lʊk",
+                           "index": 69
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 70
+                        },
+                        {
+                           "word": "\"not",
+                           "phonetic": "\"nɒt",
+                           "index": 71
+                        },
+                        {
+                           "word": "like",
+                           "phonetic": "laɪk",
+                           "index": 72
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 73
+                        },
+                        {
+                           "word": "original\"",
+                           "phonetic": "əˈrɪdʒɪnəl\"",
+                           "index": 74
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 75
+                        },
+                        {
+                           "word": "\"made",
+                           "phonetic": "\"meɪd",
+                           "index": 76
+                        },
+                        {
+                           "word": "by",
+                           "phonetic": "baɪ",
+                           "index": 77
+                        },
+                        {
+                           "word": "AI.\"",
+                           "phonetic": "eɪˈaɪ.\"",
+                           "index": 78
+                        },
+                        {
+                           "word": "Others",
+                           "phonetic": "ˈʌðərz",
+                           "index": 79
+                        },
+                        {
+                           "word": "compare",
+                           "phonetic": "kəmˈpeə(r)",
+                           "index": 80
+                        },
+                        {
+                           "word": "it",
+                           "phonetic": "ɪt",
+                           "index": 81
+                        },
+                        {
+                           "word": "to",
+                           "phonetic": "tuː",
+                           "index": 82
+                        },
+                        {
+                           "word": "Sonic,",
+                           "phonetic": "ˈsɒnɪk,",
+                           "index": 83
+                        },
+                        {
+                           "word": "which",
+                           "phonetic": "wɪtʃ",
+                           "index": 84
+                        },
+                        {
+                           "word": "changed",
+                           "phonetic": "ʧeɪndʒd",
+                           "index": 85
+                        },
+                        {
+                           "word": "after",
+                           "phonetic": "ˈɑːftər",
+                           "index": 86
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 87
+                        },
+                        {
+                           "word": "complained.",
+                           "phonetic": "kəmˈpleɪnd.",
+                           "index": 88
+                        },
+                        {
+                           "word": "Hyatt",
+                           "phonetic": "ˈhaɪət",
+                           "index": 89
+                        },
+                        {
+                           "word": "says",
+                           "phonetic": "sez",
+                           "index": 90
+                        },
+                        {
+                           "word": "people",
+                           "phonetic": "ˈpiːpl",
+                           "index": 91
+                        },
+                        {
+                           "word": "who",
+                           "phonetic": "huː",
+                           "index": 92
+                        },
+                        {
+                           "word": "saw",
+                           "phonetic": "sɔː",
+                           "index": 93
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 94
+                        },
+                        {
+                           "word": "as",
+                           "phonetic": "æz",
+                           "index": 95
+                        },
+                        {
+                           "word": "kids",
+                           "phonetic": "kɪdz",
+                           "index": 96
+                        },
+                        {
+                           "word": "now",
+                           "phonetic": "naʊ",
+                           "index": 97
+                        },
+                        {
+                           "word": "want",
+                           "phonetic": "wɒnt",
+                           "index": 98
+                        },
+                        {
+                           "word": "it",
+                           "phonetic": "ɪt",
+                           "index": 99
+                        },
+                        {
+                           "word": "to",
+                           "phonetic": "tuː",
+                           "index": 100
+                        },
+                        {
+                           "word": "stay",
+                           "phonetic": "steɪ",
+                           "index": 101
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 102
+                        },
+                        {
+                           "word": "same.",
+                           "phonetic": "seɪm.",
+                           "index": 103
+                        }
+                     ]
+                  },
+                  {
+                     "words": [
+                        {
+                           "word": "Hyatt",
+                           "phonetic": "ˈhaɪət",
+                           "index": 104
+                        },
+                        {
+                           "word": "believes",
+                           "phonetic": "bɪˈliːvz",
+                           "index": 105
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 106
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 107
+                        },
+                        {
+                           "word": "forget",
+                           "phonetic": "fərˈɡɛt",
+                           "index": 108
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 109
+                        },
+                        {
+                           "word": "changes",
+                           "phonetic": "ˈʧeɪndʒɪz",
+                           "index": 110
+                        },
+                        {
+                           "word": "after",
+                           "phonetic": "ˈɑːftər",
+                           "index": 111
+                        },
+                        {
+                           "word": "watching",
+                           "phonetic": "ˈwɒtʃɪŋ",
+                           "index": 112
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 113
+                        },
+                        {
+                           "word": "movie.",
+                           "phonetic": "ˈmuːvi.",
+                           "index": 114
+                        },
+                        {
+                           "word": "\"Shrek",
+                           "phonetic": "\"ʃrɛk",
+                           "index": 115
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 116
+                        },
+                        {
+                           "word": "about",
+                           "phonetic": "əˈbaʊt",
+                           "index": 117
+                        },
+                        {
+                           "word": "being",
+                           "phonetic": "ˈbiːɪŋ",
+                           "index": 118
+                        },
+                        {
+                           "word": "funny,",
+                           "phonetic": "ˈfʌni,",
+                           "index": 119
+                        },
+                        {
+                           "word": "not",
+                           "phonetic": "nɒt",
+                           "index": 120
+                        },
+                        {
+                           "word": "looking",
+                           "phonetic": "ˈlʊkɪŋ",
+                           "index": 121
+                        },
+                        {
+                           "word": "good,",
+                           "phonetic": "ɡʊd,",
+                           "index": 122
+                        },
+                        {
+                           "word": "he",
+                           "phonetic": "hiː",
+                           "index": 123
+                        },
+                        {
+                           "word": "says.",
+                           "phonetic": "sez.",
+                           "index": 124
+                        },
+                        {
+                           "word": "\"If",
+                           "phonetic": "\"ɪf",
+                           "index": 125
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 126
+                        },
+                        {
+                           "word": "story",
+                           "phonetic": "ˈstɔːri",
+                           "index": 127
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 128
+                        },
+                        {
+                           "word": "good,",
+                           "phonetic": "ɡʊd,",
+                           "index": 129
+                        },
+                        {
+                           "word": "people",
+                           "phonetic": "ˈpiːpl",
+                           "index": 130
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 131
+                        },
+                        {
+                           "word": "still",
+                           "phonetic": "stɪl",
+                           "index": 132
+                        },
+                        {
+                           "word": "love",
+                           "phonetic": "lʌv",
+                           "index": 133
+                        },
+                        {
+                           "word": "it.",
+                           "phonetic": "ɪt.",
+                           "index": 134
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 135
+                        },
+                        {
+                           "word": "5",
+                           "phonetic": "faɪv",
+                           "index": 136
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 137
+                        },
+                        {
+                           "word": "come",
+                           "phonetic": "kʌm",
+                           "index": 138
+                        },
+                        {
+                           "word": "out",
+                           "phonetic": "aʊt",
+                           "index": 139
+                        },
+                        {
+                           "word": "in",
+                           "phonetic": "ɪn",
+                           "index": 140
+                        },
+                        {
+                           "word": "December",
+                           "phonetic": "dɪˈsɛmbər",
+                           "index": 141
+                        },
+                        {
+                           "word": "2026.",
+                           "phonetic": "tuːˈθaʊzənd twɛnti sɪks.",
+                           "index": 142
+                        }
+                     ]
+                  }
+               ]
+            },
             "intermediate": [
                {
                   "words": [
@@ -842,584 +1205,882 @@
                   ]
                }
             ],
-            "advanced": [
-               {
-                  "words": [
-                     {
-                        "word": "The",
-                        "phonetic": "ðə",
-                        "index": 0
-                     },
-                     {
-                        "word": "first",
-                        "phonetic": "fɜːrst",
-                        "index": 1
-                     },
-                     {
-                        "word": "Shrek",
-                        "phonetic": "ʃrɛk",
-                        "index": 2
-                     },
-                     {
-                        "word": "5",
-                        "phonetic": "faɪv",
-                        "index": 3
-                     },
-                     {
-                        "word": "trailer",
-                        "phonetic": "ˈtreɪlər",
-                        "index": 4
-                     },
-                     {
-                        "word": "has",
-                        "phonetic": "hæz",
-                        "index": 5
-                     },
-                     {
-                        "word": "arrived,",
-                        "phonetic": "əˈraɪvd",
-                        "index": 6
-                     },
-                     {
-                        "word": "but",
-                        "phonetic": "bʌt",
-                        "index": 7
-                     },
-                     {
-                        "word": "not",
-                        "phonetic": "nɒt",
-                        "index": 8
-                     },
-                     {
-                        "word": "all",
-                        "phonetic": "ɔːl",
-                        "index": 9
-                     },
-                     {
-                        "word": "fans",
-                        "phonetic": "fænz",
-                        "index": 10
-                     },
-                     {
-                        "word": "are",
-                        "phonetic": "ɑr",
-                        "index": 11
-                     },
-                     {
-                        "word": "pleased.",
-                        "phonetic": "pliːzd",
-                        "index": 12
-                     },
-                     {
-                        "word": "Many",
-                        "phonetic": "ˈmɛni",
-                        "index": 13
-                     },
-                     {
-                        "word": "feel",
-                        "phonetic": "fiːl",
-                        "index": 14
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 15
-                     },
-                     {
-                        "word": "characters’",
-                        "phonetic": "ˈkærɪktərz",
-                        "index": 16
-                     },
-                     {
-                        "word": "updated",
-                        "phonetic": "ˈʌpˌdeɪtɪd",
-                        "index": 17
-                     },
-                     {
-                        "word": "faces",
-                        "phonetic": "ˈfeɪsɪz",
-                        "index": 18
-                     },
-                     {
-                        "word": "stray",
-                        "phonetic": "streɪ",
-                        "index": 19
-                     },
-                     {
-                        "word": "from",
-                        "phonetic": "frʌm",
-                        "index": 20
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 21
-                     },
-                     {
-                        "word": "original",
-                        "phonetic": "əˈrɪdʒənəl",
-                        "index": 22
-                     },
-                     {
-                        "word": "style.",
-                        "phonetic": "staɪl",
-                        "index": 23
-                     },
-                     {
-                        "word": "Some",
-                        "phonetic": "ˈmɛni",
-                        "index": 24
-                     },
-                     {
-                        "word": "fans",
-                        "phonetic": "fænz",
-                        "index": 25
-                     },
-                     {
-                        "word": "prefer",
-                        "phonetic": "prɪˈfɜːr",
-                        "index": 26
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 27
-                     },
-                     {
-                        "word": "old",
-                        "phonetic": "oʊld",
-                        "index": 28
-                     },
-                     {
-                        "word": "look,",
-                        "phonetic": "lʊk",
-                        "index": 29
-                     },
-                     {
-                        "word": "claiming",
-                        "phonetic": "ˈkleɪmɪŋ",
-                        "index": 30
-                     },
-                     {
-                        "word": "that",
-                        "phonetic": "ðæt",
-                        "index": 31
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 32
-                     },
-                     {
-                        "word": "new",
-                        "phonetic": "nuː",
-                        "index": 33
-                     },
-                     {
-                        "word": "design",
-                        "phonetic": "dɪˈzaɪn",
-                        "index": 34
-                     },
-                     {
-                        "word": "lacks",
-                        "phonetic": "læks",
-                        "index": 35
-                     },
-                     {
-                        "word": "charm.",
-                        "phonetic": "ʧɑːrm",
-                        "index": 36
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "word": "The",
-                        "phonetic": "ðə",
-                        "index": 37
-                     },
-                     {
-                        "word": "teaser",
-                        "phonetic": "ˈtiːzər",
-                        "index": 38
-                     },
-                     {
-                        "word": "features",
-                        "phonetic": "ˈfiːʧərz",
-                        "index": 39
-                     },
-                     {
-                        "word": "Shrek,",
-                        "phonetic": "ʃrɛk",
-                        "index": 40
-                     },
-                     {
-                        "word": "Donkey,",
-                        "phonetic": "ˈdɒŋki",
-                        "index": 41
-                     },
-                     {
-                        "word": "Fiona,",
-                        "phonetic": "fiˈoʊnə",
-                        "index": 42
-                     },
-                     {
-                        "word": "and",
-                        "phonetic": "ænd",
-                        "index": 43
-                     },
-                     {
-                        "word": "their",
-                        "phonetic": "ðɛr",
-                        "index": 44
-                     },
-                     {
-                        "word": "now-adult",
-                        "phonetic": "naʊ əˈdʌlt",
-                        "index": 45
-                     },
-                     {
-                        "word": "daughter",
-                        "phonetic": "ˈdɔːtər",
-                        "index": 46
-                     },
-                     {
-                        "word": "Felicia.",
-                        "phonetic": "fəˈliʃə",
-                        "index": 47
-                     },
-                     {
-                        "word": "Zendaya",
-                        "phonetic": "zɛnˈdeɪə",
-                        "index": 48
-                     },
-                     {
-                        "word": "joins",
-                        "phonetic": "ʤɔɪnz",
-                        "index": 49
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 50
-                     },
-                     {
-                        "word": "cast",
-                        "phonetic": "kæst",
-                        "index": 51
-                     },
-                     {
-                        "word": "as",
-                        "phonetic": "æz",
-                        "index": 52
-                     },
-                     {
-                        "word": "Felicia,",
-                        "phonetic": "fəˈliʃə",
-                        "index": 53
-                     },
-                     {
-                        "word": "alongside",
-                        "phonetic": "əˈlɒŋˌsaɪd",
-                        "index": 54
-                     },
-                     {
-                        "word": "returning",
-                        "phonetic": "rɪˈtɜrnɪŋ",
-                        "index": 55
-                     },
-                     {
-                        "word": "stars",
-                        "phonetic": "stɑːrz",
-                        "index": 56
-                     },
-                     {
-                        "word": "Myers,",
-                        "phonetic": "ˈmaɪərz",
-                        "index": 57
-                     },
-                     {
-                        "word": "Diaz,",
-                        "phonetic": "ˈdiːəz",
-                        "index": 58
-                     },
-                     {
-                        "word": "and",
-                        "phonetic": "ænd",
-                        "index": 59
-                     },
-                     {
-                        "word": "Murphy.",
-                        "phonetic": "ˈmɜːrfi",
-                        "index": 60
-                     },
-                     {
-                        "word": "Some",
-                        "phonetic": "sʌm",
-                        "index": 61
-                     },
-                     {
-                        "word": "fans",
-                        "phonetic": "fænz",
-                        "index": 62
-                     },
-                     {
-                        "word": "are",
-                        "phonetic": "ɑr",
-                        "index": 63
-                     },
-                     {
-                        "word": "excited",
-                        "phonetic": "ɪkˈsaɪtɪd",
-                        "index": 64
-                     },
-                     {
-                        "word": "to",
-                        "phonetic": "tuː",
-                        "index": 65
-                     },
-                     {
-                        "word": "see",
-                        "phonetic": "siː",
-                        "index": 66
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 67
-                     },
-                     {
-                        "word": "new",
-                        "phonetic": "nuː",
-                        "index": 68
-                     },
-                     {
-                        "word": "cast.",
-                        "phonetic": "kæst",
-                        "index": 69
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "word": "Oli",
-                        "phonetic": "ˈɒli",
-                        "index": 70
-                     },
-                     {
-                        "word": "Hyatt,",
-                        "phonetic": "ˈhaɪət",
-                        "index": 71
-                     },
-                     {
-                        "word": "an",
-                        "phonetic": "æn",
-                        "index": 72
-                     },
-                     {
-                        "word": "animation",
-                        "phonetic": "ˌænɪˈmeɪʃən",
-                        "index": 73
-                     },
-                     {
-                        "word": "expert,",
-                        "phonetic": "ˈɛkspɜrt",
-                        "index": 74
-                     },
-                     {
-                        "word": "says",
-                        "phonetic": "sɛz",
-                        "index": 75
-                     },
-                     {
-                        "word": "nostalgia",
-                        "phonetic": "nɒˈstældʒə",
-                        "index": 76
-                     },
-                     {
-                        "word": "fuels",
-                        "phonetic": "fjuːəlz",
-                        "index": 77
-                     },
-                     {
-                        "word": "strong",
-                        "phonetic": "strɒŋ",
-                        "index": 78
-                     },
-                     {
-                        "word": "reactions",
-                        "phonetic": "riˈækʃənz",
-                        "index": 79
-                     },
-                     {
-                        "word": "to",
-                        "phonetic": "tuː",
-                        "index": 80
-                     },
-                     {
-                        "word": "change.",
-                        "phonetic": "ʧeɪndʒ",
-                        "index": 81
-                     },
-                     {
-                        "word": "Some",
-                        "phonetic": "sʌm",
-                        "index": 82
-                     },
-                     {
-                        "word": "fans",
-                        "phonetic": "fænz",
-                        "index": 83
-                     },
-                     {
-                        "word": "prefer",
-                        "phonetic": "prɪˈfɜːr",
-                        "index": 84
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 85
-                     },
-                     {
-                        "word": "familiar",
-                        "phonetic": "fəˈmɪlɪər",
-                        "index": 86
-                     },
-                     {
-                        "word": "design,",
-                        "phonetic": "dɪˈzaɪn",
-                        "index": 87
-                     },
-                     {
-                        "word": "which",
-                        "phonetic": "wɪʧ",
-                        "index": 88
-                     },
-                     {
-                        "word": "reminds",
-                        "phonetic": "rɪˈmaɪndz",
-                        "index": 89
-                     },
-                     {
-                        "word": "them",
-                        "phonetic": "ðɛm",
-                        "index": 90
-                     },
-                     {
-                        "word": "of",
-                        "phonetic": "ʌv",
-                        "index": 91
-                     },
-                     {
-                        "word": "their",
-                        "phonetic": "ðɛr",
-                        "index": 92
-                     },
-                     {
-                        "word": "childhood.",
-                        "phonetic": "ˈʧaɪldhʊd",
-                        "index": 93
-                     }
-                  ]
-               },
-               {
-                  "words": [
-                     {
-                        "word": "Some",
-                        "phonetic": "sʌm",
-                        "index": 94
-                     },
-                     {
-                        "word": "fans",
-                        "phonetic": "fænz",
-                        "index": 95
-                     },
-                     {
-                        "word": "are",
-                        "phonetic": "ɑr",
-                        "index": 96
-                     },
-                     {
-                        "word": "looking",
-                        "phonetic": "ˈlʊkɪŋ",
-                        "index": 97
-                     },
-                     {
-                        "word": "forward",
-                        "phonetic": "ˈfɔːwərd",
-                        "index": 98
-                     },
-                     {
-                        "word": "to",
-                        "phonetic": "tuː",
-                        "index": 99
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 100
-                     },
-                     {
-                        "word": "next",
-                        "phonetic": "nɛkst",
-                        "index": 101
-                     },
-                     {
-                        "word": "Shrek",
-                        "phonetic": "ʃrɛk",
-                        "index": 102
-                     },
-                     {
-                        "word": "movie",
-                        "phonetic": "ˈmuːvi",
-                        "index": 103
-                     },
-                     {
-                        "word": "and",
-                        "phonetic": "ænd",
-                        "index": 104
-                     },
-                     {
-                        "word": "trust",
-                        "phonetic": "trʌst",
-                        "index": 105
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 106
-                     },
-                     {
-                        "word": "update",
-                        "phonetic": "ˈʌpˌdeɪt",
-                        "index": 107
-                     },
-                     {
-                        "word": "is",
-                        "phonetic": "ɪz",
-                        "index": 108
-                     },
-                     {
-                        "word": "for",
-                        "phonetic": "fɔːr",
-                        "index": 109
-                     },
-                     {
-                        "word": "the",
-                        "phonetic": "ðə",
-                        "index": 110
-                     },
-                     {
-                        "word": "better.",
-                        "phonetic": "ˈbɛtər",
-                        "index": 111
-                     }
-                  ]
-               }
-            ]
+            "advanced": {
+               "paragraphs": [
+                  {
+                     "words": [
+                        {
+                           "word": "The",
+                           "phonetic": "ðə",
+                           "index": 0
+                        },
+                        {
+                           "word": "first",
+                           "phonetic": "fɜːrst",
+                           "index": 1
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 2
+                        },
+                        {
+                           "word": "5",
+                           "phonetic": "faɪv",
+                           "index": 3
+                        },
+                        {
+                           "word": "trailer",
+                           "phonetic": "ˈtreɪlər",
+                           "index": 4
+                        },
+                        {
+                           "word": "has",
+                           "phonetic": "hæz",
+                           "index": 5
+                        },
+                        {
+                           "word": "arrived,",
+                           "phonetic": "əˈraɪvd,",
+                           "index": 6
+                        },
+                        {
+                           "word": "but",
+                           "phonetic": "bʌt",
+                           "index": 7
+                        },
+                        {
+                           "word": "not",
+                           "phonetic": "nɒt",
+                           "index": 8
+                        },
+                        {
+                           "word": "all",
+                           "phonetic": "ɔːl",
+                           "index": 9
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 10
+                        },
+                        {
+                           "word": "are",
+                           "phonetic": "ɑːr",
+                           "index": 11
+                        },
+                        {
+                           "word": "pleased.",
+                           "phonetic": "pliːzd.",
+                           "index": 12
+                        },
+                        {
+                           "word": "Many",
+                           "phonetic": "ˈmɛni",
+                           "index": 13
+                        },
+                        {
+                           "word": "feel",
+                           "phonetic": "fiːl",
+                           "index": 14
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 15
+                        },
+                        {
+                           "word": "characters’",
+                           "phonetic": "ˈkærɪktərz",
+                           "index": 16
+                        },
+                        {
+                           "word": "updated",
+                           "phonetic": "ʌpˈdeɪtɪd",
+                           "index": 17
+                        },
+                        {
+                           "word": "faces",
+                           "phonetic": "ˈfeɪsɪz",
+                           "index": 18
+                        },
+                        {
+                           "word": "stray",
+                           "phonetic": "streɪ",
+                           "index": 19
+                        },
+                        {
+                           "word": "from",
+                           "phonetic": "frəm",
+                           "index": 20
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 21
+                        },
+                        {
+                           "word": "original",
+                           "phonetic": "əˈrɪdʒɪnəl",
+                           "index": 22
+                        },
+                        {
+                           "word": "style.",
+                           "phonetic": "staɪl.",
+                           "index": 23
+                        },
+                        {
+                           "word": "The",
+                           "phonetic": "ðə",
+                           "index": 24
+                        },
+                        {
+                           "word": "teaser",
+                           "phonetic": "ˈtiːzər",
+                           "index": 25
+                        },
+                        {
+                           "word": "features",
+                           "phonetic": "ˈfiːtʃərz",
+                           "index": 26
+                        },
+                        {
+                           "word": "Shrek,",
+                           "phonetic": "ʃrɛk,",
+                           "index": 27
+                        },
+                        {
+                           "word": "Donkey,",
+                           "phonetic": "ˈdɒŋki,",
+                           "index": 28
+                        },
+                        {
+                           "word": "Fiona,",
+                           "phonetic": "fiˈəʊnə,",
+                           "index": 29
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 30
+                        },
+                        {
+                           "word": "their",
+                           "phonetic": "ðeə(r)",
+                           "index": 31
+                        },
+                        {
+                           "word": "now-adult",
+                           "phonetic": "naʊ-əˈdʌlt",
+                           "index": 32
+                        },
+                        {
+                           "word": "daughter",
+                           "phonetic": "ˈdɔːtə(r)",
+                           "index": 33
+                        },
+                        {
+                           "word": "Felicia.",
+                           "phonetic": "fəˈlɪʃə.",
+                           "index": 34
+                        },
+                        {
+                           "word": "Zendaya",
+                           "phonetic": "zenˈdaɪə",
+                           "index": 35
+                        },
+                        {
+                           "word": "joins",
+                           "phonetic": "dʒɔɪnz",
+                           "index": 36
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 37
+                        },
+                        {
+                           "word": "cast",
+                           "phonetic": "kæst",
+                           "index": 38
+                        },
+                        {
+                           "word": "as",
+                           "phonetic": "æz",
+                           "index": 39
+                        },
+                        {
+                           "word": "Felicia,",
+                           "phonetic": "fəˈlɪʃə,",
+                           "index": 40
+                        },
+                        {
+                           "word": "alongside",
+                           "phonetic": "əˈlɒŋsaɪd",
+                           "index": 41
+                        },
+                        {
+                           "word": "returning",
+                           "phonetic": "rɪˈtɜːnɪŋ",
+                           "index": 42
+                        },
+                        {
+                           "word": "stars",
+                           "phonetic": "stɑːrz",
+                           "index": 43
+                        },
+                        {
+                           "word": "Myers,",
+                           "phonetic": "ˈmaɪəz,",
+                           "index": 44
+                        },
+                        {
+                           "word": "Diaz,",
+                           "phonetic": "ˈdiːæz,",
+                           "index": 45
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 46
+                        },
+                        {
+                           "word": "Murphy.",
+                           "phonetic": "ˈmɜːrfi.",
+                           "index": 47
+                        }
+                     ]
+                  },
+                  {
+                     "words": [
+                        {
+                           "word": "Oli",
+                           "phonetic": "ˈɒli",
+                           "index": 48
+                        },
+                        {
+                           "word": "Hyatt,",
+                           "phonetic": "ˈhaɪət,",
+                           "index": 49
+                        },
+                        {
+                           "word": "an",
+                           "phonetic": "æn",
+                           "index": 50
+                        },
+                        {
+                           "word": "animation",
+                           "phonetic": "ˌænɪˈmeɪʃən",
+                           "index": 51
+                        },
+                        {
+                           "word": "expert,",
+                           "phonetic": "ˈɛkspɜːt,",
+                           "index": 52
+                        },
+                        {
+                           "word": "says",
+                           "phonetic": "sez",
+                           "index": 53
+                        },
+                        {
+                           "word": "nostalgia",
+                           "phonetic": "nɒˈstælʤə",
+                           "index": 54
+                        },
+                        {
+                           "word": "fuels",
+                           "phonetic": "fjuːlz",
+                           "index": 55
+                        },
+                        {
+                           "word": "strong",
+                           "phonetic": "strɔːŋ",
+                           "index": 56
+                        },
+                        {
+                           "word": "reactions",
+                           "phonetic": "rɪˈækʃənz",
+                           "index": 57
+                        },
+                        {
+                           "word": "to",
+                           "phonetic": "tuː",
+                           "index": 58
+                        },
+                        {
+                           "word": "change.",
+                           "phonetic": "ʧeɪndʒ.",
+                           "index": 59
+                        },
+                        {
+                           "word": "Some",
+                           "phonetic": "sʌm",
+                           "index": 60
+                        },
+                        {
+                           "word": "online",
+                           "phonetic": "ˈɒnlaɪn",
+                           "index": 61
+                        },
+                        {
+                           "word": "claim",
+                           "phonetic": "kleɪm",
+                           "index": 62
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 63
+                        },
+                        {
+                           "word": "animation",
+                           "phonetic": "ˌænɪˈmeɪʃən",
+                           "index": 64
+                        },
+                        {
+                           "word": "looks",
+                           "phonetic": "lʊks",
+                           "index": 65
+                        },
+                        {
+                           "word": "like",
+                           "phonetic": "laɪk",
+                           "index": 66
+                        },
+                        {
+                           "word": "\"an",
+                           "phonetic": "\"æn",
+                           "index": 67
+                        },
+                        {
+                           "word": "AI",
+                           "phonetic": "eɪˈaɪ",
+                           "index": 68
+                        },
+                        {
+                           "word": "version",
+                           "phonetic": "ˈvɜːʃən",
+                           "index": 69
+                        },
+                        {
+                           "word": "of",
+                           "phonetic": "ɒv",
+                           "index": 70
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 71
+                        },
+                        {
+                           "word": "5.\"",
+                           "phonetic": "faɪv.\"",
+                           "index": 72
+                        },
+                        {
+                           "word": "Others",
+                           "phonetic": "ˈʌðərz",
+                           "index": 73
+                        },
+                        {
+                           "word": "compare",
+                           "phonetic": "kəmˈpeə(r)",
+                           "index": 74
+                        },
+                        {
+                           "word": "it",
+                           "phonetic": "ɪt",
+                           "index": 75
+                        },
+                        {
+                           "word": "to",
+                           "phonetic": "tuː",
+                           "index": 76
+                        },
+                        {
+                           "word": "Sonic’s",
+                           "phonetic": "ˈsɒnɪks",
+                           "index": 77
+                        },
+                        {
+                           "word": "2019",
+                           "phonetic": "tuːˈθaʊzənd nʌɪnˈtiːn",
+                           "index": 78
+                        },
+                        {
+                           "word": "film",
+                           "phonetic": "fɪlm",
+                           "index": 79
+                        },
+                        {
+                           "word": "redesign,",
+                           "phonetic": "ˌriːdɪˈzaɪn,",
+                           "index": 80
+                        },
+                        {
+                           "word": "which",
+                           "phonetic": "wɪʧ",
+                           "index": 81
+                        },
+                        {
+                           "word": "was",
+                           "phonetic": "wɒz",
+                           "index": 82
+                        },
+                        {
+                           "word": "altered",
+                           "phonetic": "ˈɔːltəd",
+                           "index": 83
+                        },
+                        {
+                           "word": "after",
+                           "phonetic": "ˈɑːftə",
+                           "index": 84
+                        },
+                        {
+                           "word": "backlash.",
+                           "phonetic": "ˈbæklæʃ.",
+                           "index": 85
+                        },
+                        {
+                           "word": "Hyatt",
+                           "phonetic": "ˈhaɪət",
+                           "index": 86
+                        },
+                        {
+                           "word": "notes",
+                           "phonetic": "nəʊts",
+                           "index": 87
+                        },
+                        {
+                           "word": "that",
+                           "phonetic": "ðæt",
+                           "index": 88
+                        },
+                        {
+                           "word": "longtime",
+                           "phonetic": "ˈlɒŋtaɪm",
+                           "index": 89
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 90
+                        },
+                        {
+                           "word": "may",
+                           "phonetic": "meɪ",
+                           "index": 91
+                        },
+                        {
+                           "word": "struggle",
+                           "phonetic": "ˈstrʌɡəl",
+                           "index": 92
+                        },
+                        {
+                           "word": "with",
+                           "phonetic": "wɪð",
+                           "index": 93
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 94
+                        },
+                        {
+                           "word": "updated",
+                           "phonetic": "ʌpˈdeɪtɪd",
+                           "index": 95
+                        },
+                        {
+                           "word": "look.",
+                           "phonetic": "lʊk.",
+                           "index": 96
+                        },
+                        {
+                           "word": "Since",
+                           "phonetic": "sɪns",
+                           "index": 97
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 98
+                        },
+                        {
+                           "word": "teaser",
+                           "phonetic": "ˈtiːzər",
+                           "index": 99
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 100
+                        },
+                        {
+                           "word": "short,",
+                           "phonetic": "ʃɔːt,",
+                           "index": 101
+                        },
+                        {
+                           "word": "he",
+                           "phonetic": "hiː",
+                           "index": 102
+                        },
+                        {
+                           "word": "believes",
+                           "phonetic": "bɪˈliːvz",
+                           "index": 103
+                        },
+                        {
+                           "word": "it’s",
+                           "phonetic": "ɪts",
+                           "index": 104
+                        },
+                        {
+                           "word": "too",
+                           "phonetic": "tuː",
+                           "index": 105
+                        },
+                        {
+                           "word": "soon",
+                           "phonetic": "suːn",
+                           "index": 106
+                        },
+                        {
+                           "word": "to",
+                           "phonetic": "tuː",
+                           "index": 107
+                        },
+                        {
+                           "word": "judge.",
+                           "phonetic": "ʤʌdʒ.",
+                           "index": 108
+                        }
+                     ]
+                  },
+                  {
+                     "words": [
+                        {
+                           "word": "CGI",
+                           "phonetic": "ˌsiːdʒiːˈaɪ",
+                           "index": 109
+                        },
+                        {
+                           "word": "advancements",
+                           "phonetic": "ədˈvɑːnsmənts",
+                           "index": 110
+                        },
+                        {
+                           "word": "now",
+                           "phonetic": "naʊ",
+                           "index": 111
+                        },
+                        {
+                           "word": "allow",
+                           "phonetic": "əˈlaʊ",
+                           "index": 112
+                        },
+                        {
+                           "word": "higher-quality",
+                           "phonetic": "ˈhaɪə-ˈkwɒləti",
+                           "index": 113
+                        },
+                        {
+                           "word": "animation",
+                           "phonetic": "ˌænɪˈmeɪʃən",
+                           "index": 114
+                        },
+                        {
+                           "word": "on",
+                           "phonetic": "ɒn",
+                           "index": 115
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 116
+                        },
+                        {
+                           "word": "same",
+                           "phonetic": "seɪm",
+                           "index": 117
+                        },
+                        {
+                           "word": "budget.",
+                           "phonetic": "ˈbʌdʒɪt.",
+                           "index": 118
+                        },
+                        {
+                           "word": "Some",
+                           "phonetic": "sʌm",
+                           "index": 119
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 120
+                        },
+                        {
+                           "word": "joke",
+                           "phonetic": "dʒəʊk",
+                           "index": 121
+                        },
+                        {
+                           "word": "that",
+                           "phonetic": "ðæt",
+                           "index": 122
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 123
+                        },
+                        {
+                           "word": "had",
+                           "phonetic": "hæd",
+                           "index": 124
+                        },
+                        {
+                           "word": "\"botox,\"",
+                           "phonetic": "\"ˈbəʊtɒks,\"",
+                           "index": 125
+                        },
+                        {
+                           "word": "while",
+                           "phonetic": "waɪl",
+                           "index": 126
+                        },
+                        {
+                           "word": "others",
+                           "phonetic": "ˈʌðəz",
+                           "index": 127
+                        },
+                        {
+                           "word": "praise",
+                           "phonetic": "preɪz",
+                           "index": 128
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 129
+                        },
+                        {
+                           "word": "aging",
+                           "phonetic": "ˈeɪʤɪŋ",
+                           "index": 130
+                        },
+                        {
+                           "word": "details.",
+                           "phonetic": "ˈdiːteɪlz.",
+                           "index": 131
+                        },
+                        {
+                           "word": "Hyatt",
+                           "phonetic": "ˈhaɪət",
+                           "index": 132
+                        },
+                        {
+                           "word": "believes",
+                           "phonetic": "bɪˈliːvz",
+                           "index": 133
+                        },
+                        {
+                           "word": "fans",
+                           "phonetic": "fæns",
+                           "index": 134
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 135
+                        },
+                        {
+                           "word": "adjust",
+                           "phonetic": "əˈdʒʌst",
+                           "index": 136
+                        },
+                        {
+                           "word": "once",
+                           "phonetic": "wʌns",
+                           "index": 137
+                        },
+                        {
+                           "word": "they",
+                           "phonetic": "ðeɪ",
+                           "index": 138
+                        },
+                        {
+                           "word": "see",
+                           "phonetic": "siː",
+                           "index": 139
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 140
+                        },
+                        {
+                           "word": "full",
+                           "phonetic": "fʊl",
+                           "index": 141
+                        },
+                        {
+                           "word": "film.",
+                           "phonetic": "fɪlm.",
+                           "index": 142
+                        },
+                        {
+                           "word": "\"Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 143
+                        },
+                        {
+                           "word": "was",
+                           "phonetic": "wɒz",
+                           "index": 144
+                        },
+                        {
+                           "word": "never",
+                           "phonetic": "ˈnɛvər",
+                           "index": 145
+                        },
+                        {
+                           "word": "about",
+                           "phonetic": "əˈbaʊt",
+                           "index": 146
+                        },
+                        {
+                           "word": "looking",
+                           "phonetic": "ˈlʊkɪŋ",
+                           "index": 147
+                        },
+                        {
+                           "word": "perfect,\"",
+                           "phonetic": "ˈpɜːfɪkt,\"",
+                           "index": 148
+                        },
+                        {
+                           "word": "he",
+                           "phonetic": "hiː",
+                           "index": 149
+                        },
+                        {
+                           "word": "says.",
+                           "phonetic": "sez.",
+                           "index": 150
+                        },
+                        {
+                           "word": "\"As",
+                           "phonetic": "æz",
+                           "index": 151
+                        },
+                        {
+                           "word": "long",
+                           "phonetic": "lɒŋ",
+                           "index": 152
+                        },
+                        {
+                           "word": "as",
+                           "phonetic": "æz",
+                           "index": 153
+                        },
+                        {
+                           "word": "the",
+                           "phonetic": "ðə",
+                           "index": 154
+                        },
+                        {
+                           "word": "humor",
+                           "phonetic": "ˈhjuːmər",
+                           "index": 155
+                        },
+                        {
+                           "word": "and",
+                           "phonetic": "ænd",
+                           "index": 156
+                        },
+                        {
+                           "word": "heart",
+                           "phonetic": "hɑːrt",
+                           "index": 157
+                        },
+                        {
+                           "word": "are",
+                           "phonetic": "ɑːr",
+                           "index": 158
+                        },
+                        {
+                           "word": "there,",
+                           "phonetic": "ðeə(r),",
+                           "index": 159
+                        },
+                        {
+                           "word": "people",
+                           "phonetic": "ˈpiːpl",
+                           "index": 160
+                        },
+                        {
+                           "word": "will",
+                           "phonetic": "wɪl",
+                           "index": 161
+                        },
+                        {
+                           "word": "still",
+                           "phonetic": "stɪl",
+                           "index": 162
+                        },
+                        {
+                           "word": "love",
+                           "phonetic": "lʌv",
+                           "index": 163
+                        },
+                        {
+                           "word": "it.\"",
+                           "phonetic": "ɪt.\"",
+                           "index": 164
+                        },
+                        {
+                           "word": "Shrek",
+                           "phonetic": "ʃrɛk",
+                           "index": 165
+                        },
+                        {
+                           "word": "5",
+                           "phonetic": "faɪv",
+                           "index": 166
+                        },
+                        {
+                           "word": "is",
+                           "phonetic": "ɪz",
+                           "index": 167
+                        },
+                        {
+                           "word": "coming",
+                           "phonetic": "ˈkʌmɪŋ",
+                           "index": 168
+                        },
+                        {
+                           "word": "in",
+                           "phonetic": "ɪn",
+                           "index": 169
+                        },
+                        {
+                           "word": "December",
+                           "phonetic": "dɪˈsɛmbər",
+                           "index": 170
+                        },
+                        {
+                           "word": "2026.",
+                           "phonetic": "tuːˈθaʊzənd twɛnti sɪks.",
+                           "index": 171
+                        }
+                     ]
+                  }
+               ]
+            }
          }
       },
       {
