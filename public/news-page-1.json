@@ -3469,6 +3469,1822 @@
                }
             ]
          }
+      },
+      {
+         "id": "de6252da-fa5c-4e2f-a98c-5a94fcadbc7f",
+         "title": "Skype’s Journey Ends: Microsoft Announces Shutdown",
+         "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14491954b.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+         "date": "2025-02-28 00:00:00",
+         "article": {
+            "beginner": [
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 0
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "wɪl",
+                        "index": 1
+                     },
+                     {
+                        "word": "stop",
+                        "phonetic": "stɒp",
+                        "index": 2
+                     },
+                     {
+                        "word": "Skype,",
+                        "phonetic": "skaɪp",
+                        "index": 3
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "ðə",
+                        "index": 4
+                     },
+                     {
+                        "word": "online",
+                        "phonetic": "ˈɒn.laɪn",
+                        "index": 5
+                     },
+                     {
+                        "word": "phone",
+                        "phonetic": "foʊn",
+                        "index": 6
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 7
+                     },
+                     {
+                        "word": "video",
+                        "phonetic": "ˈvɪd.i.oʊ",
+                        "index": 8
+                     },
+                     {
+                        "word": "app,",
+                        "phonetic": "æp",
+                        "index": 9
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 10
+                     },
+                     {
+                        "word": "May.",
+                        "phonetic": "meɪ",
+                        "index": 11
+                     },
+                     {
+                        "word": "People",
+                        "phonetic": "ˈpiː.pəl",
+                        "index": 12
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "wɪl",
+                        "index": 13
+                     },
+                     {
+                        "word": "not",
+                        "phonetic": "nɒt",
+                        "index": 14
+                     },
+                     {
+                        "word": "be",
+                        "phonetic": "biː",
+                        "index": 15
+                     },
+                     {
+                        "word": "able",
+                        "phonetic": "ˈeɪ.bəl",
+                        "index": 16
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 17
+                     },
+                     {
+                        "word": "use",
+                        "phonetic": "juːz",
+                        "index": 18
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 19
+                     },
+                     {
+                        "word": "anymore.",
+                        "phonetic": "ˌɛn.iˈmɔːr",
+                        "index": 20
+                     },
+                     {
+                        "word": "The",
+                        "phonetic": "ðə",
+                        "index": 21
+                     },
+                     {
+                        "word": "company",
+                        "phonetic": "ˈkʌm.pə.ni",
+                        "index": 22
+                     },
+                     {
+                        "word": "said",
+                        "phonetic": "sɛd",
+                        "index": 23
+                     },
+                     {
+                        "word": "users",
+                        "phonetic": "ˈjuː.zərz",
+                        "index": 24
+                     },
+                     {
+                        "word": "can",
+                        "phonetic": "kæn",
+                        "index": 25
+                     },
+                     {
+                        "word": "log",
+                        "phonetic": "lɒɡ",
+                        "index": 26
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 27
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 28
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 29
+                     },
+                     {
+                        "word": "Teams",
+                        "phonetic": "tiːmz",
+                        "index": 30
+                     },
+                     {
+                        "word": "instead.",
+                        "phonetic": "ɪnˈstɛd",
+                        "index": 31
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 32
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 33
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 34
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 35
+                     },
+                     {
+                        "word": "2011",
+                        "phonetic": "ˈtwɛnti ɪˈlɛv.ən",
+                        "index": 36
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "fɔːr",
+                        "index": 37
+                     },
+                     {
+                        "word": "$8.5",
+                        "phonetic": "eɪt pɔɪnt faɪv",
+                        "index": 38
+                     },
+                     {
+                        "word": "billion.",
+                        "phonetic": "ˈbɪl.jən",
+                        "index": 39
+                     },
+                     {
+                        "word": "It",
+                        "phonetic": "ɪt",
+                        "index": 40
+                     },
+                     {
+                        "word": "added",
+                        "phonetic": "ˈæd.ɪd",
+                        "index": 41
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 42
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 43
+                     },
+                     {
+                        "word": "its",
+                        "phonetic": "ɪts",
+                        "index": 44
+                     },
+                     {
+                        "word": "other",
+                        "phonetic": "ˈʌð.ər",
+                        "index": 45
+                     },
+                     {
+                        "word": "apps,",
+                        "phonetic": "æps",
+                        "index": 46
+                     },
+                     {
+                        "word": "like",
+                        "phonetic": "laɪk",
+                        "index": 47
+                     },
+                     {
+                        "word": "Office",
+                        "phonetic": "ˈɒ.fɪs",
+                        "index": 48
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 49
+                     },
+                     {
+                        "word": "Windows",
+                        "phonetic": "ˈwɪn.doʊz",
+                        "index": 50
+                     },
+                     {
+                        "word": "Phone.",
+                        "phonetic": "foʊn",
+                        "index": 51
+                     },
+                     {
+                        "word": "A",
+                        "phonetic": "ə",
+                        "index": 52
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 53
+                     },
+                     {
+                        "word": "leader",
+                        "phonetic": "ˈliː.dər",
+                        "index": 54
+                     },
+                     {
+                        "word": "said",
+                        "phonetic": "sɛd",
+                        "index": 55
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 56
+                     },
+                     {
+                        "word": "helped",
+                        "phonetic": "hɛlpt",
+                        "index": 57
+                     },
+                     {
+                        "word": "people",
+                        "phonetic": "ˈpiː.pəl",
+                        "index": 58
+                     },
+                     {
+                        "word": "talk",
+                        "phonetic": "tɔːk",
+                        "index": 59
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 60
+                     },
+                     {
+                        "word": "share",
+                        "phonetic": "ʃɛr",
+                        "index": 61
+                     },
+                     {
+                        "word": "moments.",
+                        "phonetic": "ˈmoʊ.mənts",
+                        "index": 62
+                     },
+                     {
+                        "word": "Now,",
+                        "phonetic": "naʊ",
+                        "index": 63
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "ðə",
+                        "index": 64
+                     },
+                     {
+                        "word": "company",
+                        "phonetic": "ˈkʌm.pə.ni",
+                        "index": 65
+                     },
+                     {
+                        "word": "wants",
+                        "phonetic": "wɒnts",
+                        "index": 66
+                     },
+                     {
+                        "word": "users",
+                        "phonetic": "ˈjuː.zərz",
+                        "index": 67
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 68
+                     },
+                     {
+                        "word": "switch",
+                        "phonetic": "swɪtʃ",
+                        "index": 69
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 70
+                     },
+                     {
+                        "word": "Teams.",
+                        "phonetic": "tiːmz",
+                        "index": 71
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 72
+                     },
+                     {
+                        "word": "is",
+                        "phonetic": "ɪz",
+                        "index": 73
+                     },
+                     {
+                        "word": "not",
+                        "phonetic": "nɒt",
+                        "index": 74
+                     },
+                     {
+                        "word": "as",
+                        "phonetic": "æz",
+                        "index": 75
+                     },
+                     {
+                        "word": "popular",
+                        "phonetic": "ˈpɒp.jʊ.lər",
+                        "index": 76
+                     },
+                     {
+                        "word": "as",
+                        "phonetic": "æz",
+                        "index": 77
+                     },
+                     {
+                        "word": "before.",
+                        "phonetic": "bɪˈfɔːr",
+                        "index": 78
+                     },
+                     {
+                        "word": "Other",
+                        "phonetic": "ˈʌð.ər",
+                        "index": 79
+                     },
+                     {
+                        "word": "apps",
+                        "phonetic": "æps",
+                        "index": 80
+                     },
+                     {
+                        "word": "like",
+                        "phonetic": "laɪk",
+                        "index": 81
+                     },
+                     {
+                        "word": "Zoom,",
+                        "phonetic": "zuːm",
+                        "index": 82
+                     },
+                     {
+                        "word": "WhatsApp,",
+                        "phonetic": "wɒtsˈæp",
+                        "index": 83
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 84
+                     },
+                     {
+                        "word": "FaceTime",
+                        "phonetic": "feɪs.taɪm",
+                        "index": 85
+                     },
+                     {
+                        "word": "are",
+                        "phonetic": "ɑːr",
+                        "index": 86
+                     },
+                     {
+                        "word": "used",
+                        "phonetic": "juːzd",
+                        "index": 87
+                     },
+                     {
+                        "word": "more",
+                        "phonetic": "mɔːr",
+                        "index": 88
+                     },
+                     {
+                        "word": "now.",
+                        "phonetic": "naʊ",
+                        "index": 89
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 90
+                     },
+                     {
+                        "word": "started",
+                        "phonetic": "ˈstɑːtɪd",
+                        "index": 91
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 92
+                     },
+                     {
+                        "word": "2003",
+                        "phonetic": "tuː ˈθaʊ.zənd θriː",
+                        "index": 93
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 94
+                     },
+                     {
+                        "word": "let",
+                        "phonetic": "lɛt",
+                        "index": 95
+                     },
+                     {
+                        "word": "people",
+                        "phonetic": "ˈpiː.pəl",
+                        "index": 96
+                     },
+                     {
+                        "word": "call",
+                        "phonetic": "kɔːl",
+                        "index": 97
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "fɔːr",
+                        "index": 98
+                     },
+                     {
+                        "word": "free.",
+                        "phonetic": "friː",
+                        "index": 99
+                     },
+                     {
+                        "word": "eBay",
+                        "phonetic": "ˈiː.beɪ",
+                        "index": 100
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 101
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 102
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 103
+                     },
+                     {
+                        "word": "2005",
+                        "phonetic": "tuː ˈθaʊ.zənd faɪv",
+                        "index": 104
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "bʌt",
+                        "index": 105
+                     },
+                     {
+                        "word": "later",
+                        "phonetic": "ˈleɪ.tər",
+                        "index": 106
+                     },
+                     {
+                        "word": "sold",
+                        "phonetic": "soʊld",
+                        "index": 107
+                     },
+                     {
+                        "word": "it.",
+                        "phonetic": "ɪt",
+                        "index": 108
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 109
+                     },
+                     {
+                        "word": "then",
+                        "phonetic": "ðɛn",
+                        "index": 110
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 111
+                     },
+                     {
+                        "word": "Skype.",
+                        "phonetic": "skaɪp",
+                        "index": 112
+                     }
+                  ]
+               }
+            ],
+            "intermediate": [
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 0
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "wɪl",
+                        "index": 1
+                     },
+                     {
+                        "word": "shut",
+                        "phonetic": "ʃʌt",
+                        "index": 2
+                     },
+                     {
+                        "word": "down",
+                        "phonetic": "daʊn",
+                        "index": 3
+                     },
+                     {
+                        "word": "Skype,",
+                        "phonetic": "skaɪp",
+                        "index": 4
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "ðə",
+                        "index": 5
+                     },
+                     {
+                        "word": "online",
+                        "phonetic": "ˈɒn.laɪn",
+                        "index": 6
+                     },
+                     {
+                        "word": "calling",
+                        "phonetic": "ˈkɔː.lɪŋ",
+                        "index": 7
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 8
+                     },
+                     {
+                        "word": "video",
+                        "phonetic": "ˈvɪd.i.oʊ",
+                        "index": 9
+                     },
+                     {
+                        "word": "service,",
+                        "phonetic": "ˈsɜː.vɪs",
+                        "index": 10
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 11
+                     },
+                     {
+                        "word": "May.",
+                        "phonetic": "meɪ",
+                        "index": 12
+                     },
+                     {
+                        "word": "Users",
+                        "phonetic": "ˈjuː.zərz",
+                        "index": 13
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "wɪl",
+                        "index": 14
+                     },
+                     {
+                        "word": "not",
+                        "phonetic": "nɒt",
+                        "index": 15
+                     },
+                     {
+                        "word": "be",
+                        "phonetic": "biː",
+                        "index": 16
+                     },
+                     {
+                        "word": "able",
+                        "phonetic": "ˈeɪ.bəl",
+                        "index": 17
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 18
+                     },
+                     {
+                        "word": "use",
+                        "phonetic": "juːz",
+                        "index": 19
+                     },
+                     {
+                        "word": "it,",
+                        "phonetic": "ɪt",
+                        "index": 20
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "bʌt",
+                        "index": 21
+                     },
+                     {
+                        "word": "they",
+                        "phonetic": "ðeɪ",
+                        "index": 22
+                     },
+                     {
+                        "word": "can",
+                        "phonetic": "kæn",
+                        "index": 23
+                     },
+                     {
+                        "word": "log",
+                        "phonetic": "lɒɡ",
+                        "index": 24
+                     },
+                     {
+                        "word": "into",
+                        "phonetic": "ˈɪn.tuː",
+                        "index": 25
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 26
+                     },
+                     {
+                        "word": "Teams",
+                        "phonetic": "tiːmz",
+                        "index": 27
+                     },
+                     {
+                        "word": "with",
+                        "phonetic": "wɪð",
+                        "index": 28
+                     },
+                     {
+                        "word": "their",
+                        "phonetic": "ðɛər",
+                        "index": 29
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 30
+                     },
+                     {
+                        "word": "account.",
+                        "phonetic": "əˈkaʊnt",
+                        "index": 31
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 32
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 33
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 34
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 35
+                     },
+                     {
+                        "word": "2011",
+                        "phonetic": "tuː ˈθaʊ.zənd ˈɪl.ɪvən",
+                        "index": 36
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "fɔːr",
+                        "index": 37
+                     },
+                     {
+                        "word": "$8.5",
+                        "phonetic": "eɪt ˈpɔɪnt faɪv",
+                        "index": 38
+                     },
+                     {
+                        "word": "billion",
+                        "phonetic": "ˈbɪl.jən",
+                        "index": 39
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 40
+                     },
+                     {
+                        "word": "added",
+                        "phonetic": "ˈæd.ɪd",
+                        "index": 41
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 42
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 43
+                     },
+                     {
+                        "word": "its",
+                        "phonetic": "ɪts",
+                        "index": 44
+                     },
+                     {
+                        "word": "other",
+                        "phonetic": "ˈʌðər",
+                        "index": 45
+                     },
+                     {
+                        "word": "services,",
+                        "phonetic": "ˈsɜː.vɪsɪz",
+                        "index": 46
+                     },
+                     {
+                        "word": "like",
+                        "phonetic": "laɪk",
+                        "index": 47
+                     },
+                     {
+                        "word": "Office.",
+                        "phonetic": "ˈɒf.ɪs",
+                        "index": 48
+                     },
+                     {
+                        "word": "A",
+                        "phonetic": "ə",
+                        "index": 49
+                     },
+                     {
+                        "word": "company",
+                        "phonetic": "ˈkʌm.pə.ni",
+                        "index": 50
+                     },
+                     {
+                        "word": "leader",
+                        "phonetic": "ˈliː.dər",
+                        "index": 51
+                     },
+                     {
+                        "word": "said",
+                        "phonetic": "sɛd",
+                        "index": 52
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 53
+                     },
+                     {
+                        "word": "helped",
+                        "phonetic": "hɛlpt",
+                        "index": 54
+                     },
+                     {
+                        "word": "shape",
+                        "phonetic": "ʃeɪp",
+                        "index": 55
+                     },
+                     {
+                        "word": "online",
+                        "phonetic": "ˈɒn.laɪn",
+                        "index": 56
+                     },
+                     {
+                        "word": "communication,",
+                        "phonetic": "kəˌmjunɪˈkeɪʃən",
+                        "index": 57
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "bʌt",
+                        "index": 58
+                     },
+                     {
+                        "word": "now",
+                        "phonetic": "naʊ",
+                        "index": 59
+                     },
+                     {
+                        "word": "Teams",
+                        "phonetic": "tiːmz",
+                        "index": 60
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "wɪl",
+                        "index": 61
+                     },
+                     {
+                        "word": "offer",
+                        "phonetic": "ˈɔː.fər",
+                        "index": 62
+                     },
+                     {
+                        "word": "new",
+                        "phonetic": "njuː",
+                        "index": 63
+                     },
+                     {
+                        "word": "ways",
+                        "phonetic": "weɪz",
+                        "index": 64
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "tuː",
+                        "index": 65
+                     },
+                     {
+                        "word": "connect.",
+                        "phonetic": "kəˈnɛkt",
+                        "index": 66
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Skype",
+                        "phonetic": "skaɪp",
+                        "index": 67
+                     },
+                     {
+                        "word": "became",
+                        "phonetic": "bɪˈkeɪm",
+                        "index": 68
+                     },
+                     {
+                        "word": "less",
+                        "phonetic": "lɛs",
+                        "index": 69
+                     },
+                     {
+                        "word": "popular",
+                        "phonetic": "ˈpɒp.jʊ.lər",
+                        "index": 70
+                     },
+                     {
+                        "word": "as",
+                        "phonetic": "æz",
+                        "index": 71
+                     },
+                     {
+                        "word": "more",
+                        "phonetic": "mɔːr",
+                        "index": 72
+                     },
+                     {
+                        "word": "people",
+                        "phonetic": "ˈpiː.pəl",
+                        "index": 73
+                     },
+                     {
+                        "word": "used",
+                        "phonetic": "juːzd",
+                        "index": 74
+                     },
+                     {
+                        "word": "Zoom,",
+                        "phonetic": "zuːm",
+                        "index": 75
+                     },
+                     {
+                        "word": "WhatsApp,",
+                        "phonetic": "wɒtsæp",
+                        "index": 76
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "ænd",
+                        "index": 77
+                     },
+                     {
+                        "word": "FaceTime.",
+                        "phonetic": "ˈfeɪs.taɪm",
+                        "index": 78
+                     },
+                     {
+                        "word": "It",
+                        "phonetic": "ɪt",
+                        "index": 79
+                     },
+                     {
+                        "word": "launched",
+                        "phonetic": "lɔːntʃt",
+                        "index": 80
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 81
+                     },
+                     {
+                        "word": "2003,",
+                        "phonetic": "tuː ˈθaʊ.zənd θriː",
+                        "index": 82
+                     },
+                     {
+                        "word": "letting",
+                        "phonetic": "ˈlɛtɪŋ",
+                        "index": 83
+                     },
+                     {
+                        "word": "users",
+                        "phonetic": "ˈjuː.zərz",
+                        "index": 84
+                     },
+                     {
+                        "word": "make",
+                        "phonetic": "meɪk",
+                        "index": 85
+                     },
+                     {
+                        "word": "free",
+                        "phonetic": "friː",
+                        "index": 86
+                     },
+                     {
+                        "word": "calls.",
+                        "phonetic": "kɔːlz",
+                        "index": 87
+                     },
+                     {
+                        "word": "eBay",
+                        "phonetic": "ˈiː.beɪ",
+                        "index": 88
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 89
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 90
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 91
+                     },
+                     {
+                        "word": "2005,",
+                        "phonetic": "tuː ˈθaʊ.zənd faɪv",
+                        "index": 92
+                     },
+                     {
+                        "word": "then",
+                        "phonetic": "ðɛn",
+                        "index": 93
+                     },
+                     {
+                        "word": "sold",
+                        "phonetic": "soʊld",
+                        "index": 94
+                     },
+                     {
+                        "word": "most",
+                        "phonetic": "moʊst",
+                        "index": 95
+                     },
+                     {
+                        "word": "of",
+                        "phonetic": "ʌv",
+                        "index": 96
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 97
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "ɪn",
+                        "index": 98
+                     },
+                     {
+                        "word": "2009.",
+                        "phonetic": "tuː ˈθaʊ.zənd naɪn",
+                        "index": 99
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "ˈmaɪ.krə.sɒft",
+                        "index": 100
+                     },
+                     {
+                        "word": "later",
+                        "phonetic": "ˈleɪtər",
+                        "index": 101
+                     },
+                     {
+                        "word": "bought",
+                        "phonetic": "bɔːt",
+                        "index": 102
+                     },
+                     {
+                        "word": "Skype,",
+                        "phonetic": "skaɪp",
+                        "index": 103
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "bʌt",
+                        "index": 104
+                     },
+                     {
+                        "word": "now",
+                        "phonetic": "naʊ",
+                        "index": 105
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "ɪt",
+                        "index": 106
+                     },
+                     {
+                        "word": "is",
+                        "phonetic": "ɪz",
+                        "index": 107
+                     },
+                     {
+                        "word": "focusing",
+                        "phonetic": "ˈfəʊkəsɪŋ",
+                        "index": 108
+                     },
+                     {
+                        "word": "on",
+                        "phonetic": "ɒn",
+                        "index": 109
+                     },
+                     {
+                        "word": "Teams.",
+                        "phonetic": "tiːmz",
+                        "index": 110
+                     }
+                  ]
+               }
+            ],
+            "advanced": [
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "/ˈmaɪkrəˌsɔft/",
+                        "index": 0
+                     },
+                     {
+                        "word": "is",
+                        "phonetic": "/ɪz/",
+                        "index": 1
+                     },
+                     {
+                        "word": "shutting",
+                        "phonetic": "/ˈʃʌtɪŋ/",
+                        "index": 2
+                     },
+                     {
+                        "word": "down",
+                        "phonetic": "/daʊn/",
+                        "index": 3
+                     },
+                     {
+                        "word": "Skype,",
+                        "phonetic": "/skaɪp/",
+                        "index": 4
+                     },
+                     {
+                        "word": "its",
+                        "phonetic": "/ɪts/",
+                        "index": 5
+                     },
+                     {
+                        "word": "once-popular",
+                        "phonetic": "/wʌns/ˈpɒpjʊlər/",
+                        "index": 6
+                     },
+                     {
+                        "word": "internet",
+                        "phonetic": "/ˈɪntəˌnɛt/",
+                        "index": 7
+                     },
+                     {
+                        "word": "phone",
+                        "phonetic": "/foʊn/",
+                        "index": 8
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "/ænd/",
+                        "index": 9
+                     },
+                     {
+                        "word": "video",
+                        "phonetic": "/ˈvɪdioʊ/",
+                        "index": 10
+                     },
+                     {
+                        "word": "platform,",
+                        "phonetic": "/ˈplætfɔrm/",
+                        "index": 11
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 12
+                     },
+                     {
+                        "word": "May.",
+                        "phonetic": "/meɪ/",
+                        "index": 13
+                     },
+                     {
+                        "word": "Users",
+                        "phonetic": "/ˈjuːzərz/",
+                        "index": 14
+                     },
+                     {
+                        "word": "will",
+                        "phonetic": "/wɪl/",
+                        "index": 15
+                     },
+                     {
+                        "word": "no",
+                        "phonetic": "/noʊ/",
+                        "index": 16
+                     },
+                     {
+                        "word": "longer",
+                        "phonetic": "/ˈlɔŋɡər/",
+                        "index": 17
+                     },
+                     {
+                        "word": "be",
+                        "phonetic": "/bi/",
+                        "index": 18
+                     },
+                     {
+                        "word": "able",
+                        "phonetic": "/ˈeɪbəl/",
+                        "index": 19
+                     },
+                     {
+                        "word": "to",
+                        "phonetic": "/tuː/",
+                        "index": 20
+                     },
+                     {
+                        "word": "access",
+                        "phonetic": "/ˈæksɛs/",
+                        "index": 21
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "/ðə/",
+                        "index": 22
+                     },
+                     {
+                        "word": "service,",
+                        "phonetic": "/ˈsɜrvɪs/",
+                        "index": 23
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "/bʌt/",
+                        "index": 24
+                     },
+                     {
+                        "word": "they",
+                        "phonetic": "/ðeɪ/",
+                        "index": 25
+                     },
+                     {
+                        "word": "can",
+                        "phonetic": "/kæn/",
+                        "index": 26
+                     },
+                     {
+                        "word": "use",
+                        "phonetic": "/juːz/",
+                        "index": 27
+                     },
+                     {
+                        "word": "their",
+                        "phonetic": "/ðɛr/",
+                        "index": 28
+                     },
+                     {
+                        "word": "login",
+                        "phonetic": "/ˈlɔɡɪn/",
+                        "index": 29
+                     },
+                     {
+                        "word": "details",
+                        "phonetic": "/ˈdiːteɪlz/",
+                        "index": 30
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "/fɔr/",
+                        "index": 31
+                     },
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "/ˈmaɪkrəˌsɔft/",
+                        "index": 32
+                     },
+                     {
+                        "word": "Teams",
+                        "phonetic": "/tiːmz/",
+                        "index": 33
+                     },
+                     {
+                        "word": "instead.",
+                        "phonetic": "/ɪnˈstɛd/",
+                        "index": 34
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft",
+                        "phonetic": "/ˈmaɪkrəˌsɔft/",
+                        "index": 35
+                     },
+                     {
+                        "word": "acquired",
+                        "phonetic": "/əˈkwaɪərd/",
+                        "index": 36
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "/skaɪp/",
+                        "index": 37
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 38
+                     },
+                     {
+                        "word": "2011",
+                        "phonetic": "/tuː ˈθaʊzənd ˈɛlɛvən/",
+                        "index": 39
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "/fɔr/",
+                        "index": 40
+                     },
+                     {
+                        "word": "$8.5",
+                        "phonetic": "/eɪt pɔɪnt faɪv/",
+                        "index": 41
+                     },
+                     {
+                        "word": "billion,",
+                        "phonetic": "/ˈbɪljən/",
+                        "index": 42
+                     },
+                     {
+                        "word": "integrating",
+                        "phonetic": "/ˈɪntəˌɡreɪtɪŋ/",
+                        "index": 43
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "/ɪt/",
+                        "index": 44
+                     },
+                     {
+                        "word": "into",
+                        "phonetic": "/ˈɪntuː/",
+                        "index": 45
+                     },
+                     {
+                        "word": "products",
+                        "phonetic": "/ˈprɒdʌkts/",
+                        "index": 46
+                     },
+                     {
+                        "word": "like",
+                        "phonetic": "/laɪk/",
+                        "index": 47
+                     },
+                     {
+                        "word": "Office",
+                        "phonetic": "/ˈɒfɪs/",
+                        "index": 48
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "/ænd/",
+                        "index": 49
+                     },
+                     {
+                        "word": "Windows",
+                        "phonetic": "/ˈwɪndoʊz/",
+                        "index": 50
+                     },
+                     {
+                        "word": "Phone.",
+                        "phonetic": "/foʊn/",
+                        "index": 51
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "A",
+                        "phonetic": "/eɪ/",
+                        "index": 52
+                     },
+                     {
+                        "word": "company",
+                        "phonetic": "/ˈkʌmpəni/",
+                        "index": 53
+                     },
+                     {
+                        "word": "executive",
+                        "phonetic": "/ɪɡˈzɛkjʊtɪv/",
+                        "index": 54
+                     },
+                     {
+                        "word": "acknowledged",
+                        "phonetic": "/əkˈnɒlɪdʒd/",
+                        "index": 55
+                     },
+                     {
+                        "word": "Skype’s",
+                        "phonetic": "/skaɪps/",
+                        "index": 56
+                     },
+                     {
+                        "word": "role",
+                        "phonetic": "/roʊl/",
+                        "index": 57
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 58
+                     },
+                     {
+                        "word": "modern",
+                        "phonetic": "/ˈmɒdərn/",
+                        "index": 59
+                     },
+                     {
+                        "word": "communication",
+                        "phonetic": "/kəˌmjunɪˈkeɪʃən/",
+                        "index": 60
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "/bʌt/",
+                        "index": 61
+                     },
+                     {
+                        "word": "emphasized",
+                        "phonetic": "/ˈɛmfəˌsaɪzd/",
+                        "index": 62
+                     },
+                     {
+                        "word": "Microsoft’s",
+                        "phonetic": "/ˈmaɪkrəˌsɔfts/",
+                        "index": 63
+                     },
+                     {
+                        "word": "focus",
+                        "phonetic": "/ˈfoʊkəs/",
+                        "index": 64
+                     },
+                     {
+                        "word": "on",
+                        "phonetic": "/ɒn/",
+                        "index": 65
+                     },
+                     {
+                        "word": "Teams.",
+                        "phonetic": "/tiːmz/",
+                        "index": 66
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Although",
+                        "phonetic": "/ɔːlˈðoʊ/",
+                        "index": 67
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "/skaɪp/",
+                        "index": 68
+                     },
+                     {
+                        "word": "saw",
+                        "phonetic": "/sɔː/",
+                        "index": 69
+                     },
+                     {
+                        "word": "a",
+                        "phonetic": "/ə/",
+                        "index": 70
+                     },
+                     {
+                        "word": "brief",
+                        "phonetic": "/briːf/",
+                        "index": 71
+                     },
+                     {
+                        "word": "rise",
+                        "phonetic": "/raɪz/",
+                        "index": 72
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 73
+                     },
+                     {
+                        "word": "usage",
+                        "phonetic": "/ˈjuːsɪdʒ/",
+                        "index": 74
+                     },
+                     {
+                        "word": "during",
+                        "phonetic": "/ˈdjʊərɪŋ/",
+                        "index": 75
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "/ðə/",
+                        "index": 76
+                     },
+                     {
+                        "word": "pandemic,",
+                        "phonetic": "/pænˈdɛmɪk/",
+                        "index": 77
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "/ɪt/",
+                        "index": 78
+                     },
+                     {
+                        "word": "has",
+                        "phonetic": "/hæz/",
+                        "index": 79
+                     },
+                     {
+                        "word": "struggled",
+                        "phonetic": "/ˈstrʌɡəld/",
+                        "index": 80
+                     },
+                     {
+                        "word": "against",
+                        "phonetic": "/əˈɡɛnst/",
+                        "index": 81
+                     },
+                     {
+                        "word": "competitors",
+                        "phonetic": "/kəmˈpɛtɪtərz/",
+                        "index": 82
+                     },
+                     {
+                        "word": "like",
+                        "phonetic": "/laɪk/",
+                        "index": 83
+                     },
+                     {
+                        "word": "Zoom,",
+                        "phonetic": "/zuːm/",
+                        "index": 84
+                     },
+                     {
+                        "word": "WhatsApp,",
+                        "phonetic": "/wɒtsˈæp/",
+                        "index": 85
+                     },
+                     {
+                        "word": "and",
+                        "phonetic": "/ænd/",
+                        "index": 86
+                     },
+                     {
+                        "word": "FaceTime.",
+                        "phonetic": "/ˈfeɪsˌtaɪm/",
+                        "index": 87
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Originally",
+                        "phonetic": "/əˈrɪdʒɪnəli/",
+                        "index": 88
+                     },
+                     {
+                        "word": "launched",
+                        "phonetic": "/lɔːntʃt/",
+                        "index": 89
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 90
+                     },
+                     {
+                        "word": "2003,",
+                        "phonetic": "/tuː ˈθaʊzənd θriː/",
+                        "index": 91
+                     },
+                     {
+                        "word": "Skype",
+                        "phonetic": "/skaɪp/",
+                        "index": 92
+                     },
+                     {
+                        "word": "gained",
+                        "phonetic": "/ɡeɪnd/",
+                        "index": 93
+                     },
+                     {
+                        "word": "traction",
+                        "phonetic": "/ˈtrækʃən/",
+                        "index": 94
+                     },
+                     {
+                        "word": "for",
+                        "phonetic": "/fɔr/",
+                        "index": 95
+                     },
+                     {
+                        "word": "free",
+                        "phonetic": "/friː/",
+                        "index": 96
+                     },
+                     {
+                        "word": "international",
+                        "phonetic": "/ˌɪntəˈnæʃənl/",
+                        "index": 97
+                     },
+                     {
+                        "word": "calls.",
+                        "phonetic": "/kɔːlz/",
+                        "index": 98
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "eBay",
+                        "phonetic": "/ˈiːbeɪ/",
+                        "index": 99
+                     },
+                     {
+                        "word": "purchased",
+                        "phonetic": "/ˈpɜːrtʃəst/",
+                        "index": 100
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "/ɪt/",
+                        "index": 101
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 102
+                     },
+                     {
+                        "word": "2005,",
+                        "phonetic": "/tuː ˈθaʊzənd faɪv/",
+                        "index": 103
+                     },
+                     {
+                        "word": "later",
+                        "phonetic": "/ˈleɪtər/",
+                        "index": 104
+                     },
+                     {
+                        "word": "selling",
+                        "phonetic": "/ˈsɛlɪŋ/",
+                        "index": 105
+                     },
+                     {
+                        "word": "most",
+                        "phonetic": "/moʊst/",
+                        "index": 106
+                     },
+                     {
+                        "word": "of",
+                        "phonetic": "/ʌv/",
+                        "index": 107
+                     },
+                     {
+                        "word": "it",
+                        "phonetic": "/ɪt/",
+                        "index": 108
+                     },
+                     {
+                        "word": "in",
+                        "phonetic": "/ɪn/",
+                        "index": 109
+                     },
+                     {
+                        "word": "2009.",
+                        "phonetic": "/tuː ˈθaʊzənd naɪn/",
+                        "index": 110
+                     }
+                  ]
+               },
+               {
+                  "words": [
+                     {
+                        "word": "Microsoft’s",
+                        "phonetic": "/ˈmaɪkrəˌsɔfts/",
+                        "index": 111
+                     },
+                     {
+                        "word": "2011",
+                        "phonetic": "/tuː ˈθaʊzənd ˈɛlɛvən/",
+                        "index": 112
+                     },
+                     {
+                        "word": "acquisition",
+                        "phonetic": "/ˌækwɪˈzɪʃən/",
+                        "index": 113
+                     },
+                     {
+                        "word": "made",
+                        "phonetic": "/meɪd/",
+                        "index": 114
+                     },
+                     {
+                        "word": "headlines,",
+                        "phonetic": "/ˈhɛdlaɪnz/",
+                        "index": 115
+                     },
+                     {
+                        "word": "but",
+                        "phonetic": "/bʌt/",
+                        "index": 116
+                     },
+                     {
+                        "word": "now",
+                        "phonetic": "/naʊ/",
+                        "index": 117
+                     },
+                     {
+                        "word": "the",
+                        "phonetic": "/ðə/",
+                        "index": 118
+                     },
+                     {
+                        "word": "company",
+                        "phonetic": "/ˈkʌmpəni/",
+                        "index": 119
+                     },
+                     {
+                        "word": "is",
+                        "phonetic": "/ɪz/",
+                        "index": 120
+                     },
+                     {
+                        "word": "shifting",
+                        "phonetic": "/ˈʃɪftɪŋ/",
+                        "index": 121
+                     },
+                     {
+                        "word": "its",
+                        "phonetic": "/ɪts/",
+                        "index": 122
+                     },
+                     {
+                        "word": "resources",
+                        "phonetic": "/rɪˈzɔːrsɪz/",
+                        "index": 123
+                     },
+                     {
+                        "word": "toward",
+                        "phonetic": "/tɔːrd/",
+                        "index": 124
+                     },
+                     {
+                        "word": "Teams.",
+                        "phonetic": "/tiːmz/",
+                        "index": 125
+                     }
+                  ]
+               }
+            ]
+         }
       }
    ]
 }
